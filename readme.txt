@@ -1,0 +1,3714 @@
+<!doctype html>
+<html prefix="ya: http://webmaster.yandex.ru/vocabularies/
+og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="env-no-js" data-device-type="desktop" data-ui-version="2018" lang="ru">
+	<head >
+		<meta charset="UTF-8" />
+		<meta name="format-detection" content="telephone=no">
+		<meta name="referrer" content="strict-origin-when-cross-origin">
+
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<meta name="apple-itunes-app" content="app-id=597405601" />
+
+		<meta name="robots" content="noyaca"/>
+
+		<meta name="facebook-domain-verification" content="pifug1euiwdufx109fnd1hdxm8m29q" />
+
+		<title>Горячая линия СберБанка задать вопрос онлайн | Банки.ру</title>
+		<meta name="keywords" content="проценты по вкладам,рейтинг банков,список банков,срочный вклад,ставки по вкладам,депозитные вклады,рейтинг банков москвы,вклады сбербанка,страхование вкладов,вклады,банковские вклады,сбербанк,внешторгбанк,банки москвы,центральный банк,рейтинг банков,банки" />
+<meta name="description" content="Задать вопрос банку СберБанк онлайн на сайте, воспользоваться горячей линией банка, задать вопрос экспертам." />
+<meta name="robots" content="index, follow" />
+<meta property="fb:app_id" content="243196695801552" />
+<meta property="og:site_name" content="Банки.ру" />
+<meta property="og:description" content="Задать вопрос банку СберБанк онлайн на сайте, воспользоваться горячей линией банка, задать вопрос экспертам." />
+<meta property="og:image" content="https://www.banki.ru/static/bundles/ui-2013/NewsBundle/images/1200x630-logo.jpg" />
+<meta property="og:title" content="Горячая линия СберБанка задать вопрос онлайн" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		
+		
+
+					<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.banki.ru/services/questions-answers/hotline/bank/sberbank/"/>
+
+		
+		<meta
+			name="viewport"
+			content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+		/>
+
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+			
+
+	<link
+		rel="preload"
+		href="//cdn.banki.ru/static/bundles/ui-2018/react-common761f710184.js"
+		as="script"
+	/>
+
+		<link
+			rel="stylesheet"
+			href="//fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap&subset=cyrillic"
+			media="none"
+			onload="this.media='all'"
+		/>
+
+						<!-- @ui2018common/all-base-styles.css 11915 B --><style>a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}:focus{outline:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1;overflow-anchor:none}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{-webkit-appearance:none;-moz-appearance:none}input[type=search]{-webkit-appearance:none;-moz-appearance:none}audio,canvas,video{display:inline-block;max-width:100%}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-size:100%;-ms-text-size-adjust:100%}a:active,a:hover{outline:0}a{color:inherit;text-decoration:none}img{border:0;-ms-interpolation-mode:bicubic}figure,form{margin:0}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0;white-space:normal}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline}button,input{line-height:normal}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=search]{-webkit-appearance:textfield;box-sizing:border-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}button,html,input,select,textarea{color:#212121}::-moz-selection{background:#b3d4fc;text-shadow:none}::selection{background:#b3d4fc;text-shadow:none}img{vertical-align:middle}fieldset{border:0;margin:0;padding:0}textarea{resize:vertical}*{-webkit-overflow-scrolling:touch}.env-js .no-js,.env-no-js .js-only{display:none}@media print{.no-print{display:none!important}}.is-hidden{display:none!important}.no-select{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.cursor-pointer{cursor:pointer}.overflow-hidden{overflow:hidden!important}.overflow-visible{overflow:visible!important}div.lazy-load,img.lazy-load{transition:opacity .5s ease}div.lazy-load[data-bg-src],div.lazy-load[data-src],img.lazy-load[data-bg-src],img.lazy-load[data-src]{opacity:0}.env-no-js .lazy-load{display:none}.env-js .lazy-widget{opacity:0;transform:translateY(20px);transition:opacity 1s,transform 1s}.env-js .lazy-widget--loaded{opacity:1;transform:translateY(0)}.color-white{color:#fff}.color-major-blue{color:#039be5}.color-major-black{color:#212121}.color-major-green{color:#1baf5d}.color-major-orange{color:#fe9e00}.color-major-yellow{color:#ffc92e}.color-major-red{color:#ef2d1d}.color-major-dark-blue{color:#28467f}.color-major-grey{color:#a4a9b5}.color-minor-blue{color:#29b6f6}.color-minor-black-lighten{color:#747474}.color-minor-black-lighten2{color:#f8f8f8}.color-minor-green{color:#2ecc71}.color-minor-yellow{color:#ffeb3b}.color-minor-yellow2{color:#fce87f}.color-minor-dark-blue{color:#162136}.color-minor-light-blue{color:#a0d4fa}.color-minor-blue-lighten{color:#e3f2fd}.color-minor-orange-lighten{color:#f48100}.color-minor-gray-lighten{color:#d6d9e0}.color-minor-gray-lighten2{color:#eceff1}.color-silver-strong{color:#7e8595}.color-silver-alpha-70{color:$silverTrans7}.color-white-alpha-20{color:hsla(0,0%,100%,.2)}.color-white-alpha-40{color:hsla(0,0%,100%,.4)}.color-white-alpha-60{color:hsla(0,0%,100%,.6)}.color-white-alpha-70{color:hsla(0,0%,100%,.7)}.color-white-alpha-94{color:hsla(0,0%,100%,.94)}.color-gray-alpha-10{color:rgba(33,33,33,.12)}.color-gray-alpha-30{color:rgba(33,33,33,.34)}.color-green-alpha-60{color:rgba(27,175,93,.6)}.bg-white{background-color:#fff}.bg-minor-blue-lighten{background-color:#e3f2fd}.bg-major-yellow{background-color:#ffc92e}.bg-major-red{background-color:#ef2d1d}.bg-major-dark-blue{background-color:#28467f}.bg-minor-black-lighten2{background-color:#f8f8f8}.bg-minor-green{background-color:#2ecc71}.bg-minor-yellow2{background-color:#fce87f}.bg-minor-dark-blue{background-color:#162136}.bg-minor-light-blue{background-color:#a0d4fa}.bg-orange-yellow{background-color:#fff9e7}.bg-minor-gray-lighten2{background-color:#eceff1}.bg-grad-radial-dark-blue{background-image:radial-gradient(circle,#28467f 0,#162136 100%)}@media (min-width:1025px){.padding-default{padding:32px}}@media (min-width:768px) and (max-width:1024px){.padding-default{padding:24px}}@media (max-width:767px){.padding-default{padding:16px}}@media (min-width:1025px){.padding-vert-default{padding-top:32px;padding-bottom:32px}}@media (min-width:768px) and (max-width:1024px){.padding-vert-default{padding-top:24px;padding-bottom:24px}}@media (max-width:767px){.padding-vert-default{padding-top:16px;padding-bottom:16px}}html{font-family:Roboto,sans-serif;font-size:16px;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;text-shadow:1px 1px 1px rgba(0,0,0,.004);-moz-osx-font-smoothing:grayscale;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;text-size-adjust:100%;scroll-behavior:smooth;color:#212121}@media only screen and (min-width:320px) and (max-width:567px){html{font-size:14px}}.text-lowercase{text-transform:lowercase!important}.text-uppercase{text-transform:uppercase!important}.text-capitalize{text-transform:capitalize!important}.text-no-transform{text-transform:none!important}.text-weight-normal{font-weight:400}.text-weight-bold{font-weight:700}.text-weight-black{font-weight:900}.text-weight-bolder{font-weight:700}.text-weight-medium{font-weight:500}.text-size-0{font-size:48px;line-height:64px}.text-size-1{font-size:40px;line-height:56px}.text-size-2{font-size:32px;line-height:40px}.text-size-3{font-size:24px;line-height:32px}.text-size-4{font-size:18px;line-height:28px}.text-size-5{font-size:16px;line-height:24px}.text-size-6{font-size:14px;line-height:20px}.text-size-7{font-size:12px;line-height:16px}@media only screen and (min-width:568px) and (max-width:1023px){.text-size-0{font-size:40px;line-height:56px}.text-size-1{font-size:32px;line-height:40px}.text-size-2{font-size:24px;line-height:32px}.text-size-3{font-size:18px;line-height:28px}.text-size-4,.text-size-5{font-size:16px;line-height:24px}.text-size-6{font-size:14px;line-height:20px}.text-size-7{font-size:12px;line-height:16px}}@media only screen and (min-width:320px) and (max-width:567px){.text-size-0{font-size:32px;line-height:40px}.text-size-1{font-size:24px;line-height:32px}.text-size-2{font-size:18px;line-height:28px}.text-size-3,.text-size-4{font-size:16px;line-height:24px}.text-size-5{font-size:14px;line-height:20px}.text-size-6,.text-size-7{font-size:12px;line-height:16px}}p{padding:0;margin:0}.text-list+.text-list,.text-list+p,p+.text-list,p+p{margin-top:24px}.text-note{color:#747474;font-size:12px;line-height:16px}.text-nowrap{white-space:nowrap}.text-prewrap{white-space:pre-wrap}.text-ellipsis{word-break:break-word;overflow:hidden;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical}.text-ellipsis--line_2{-webkit-line-clamp:2}.text-ellipsis--line_3{-webkit-line-clamp:3}.link-geo,.link-pseudo,.link-text{color:#212121;text-decoration:none;cursor:pointer;transition:all .2s;border:none}.link-geo:hover,.link-pseudo:hover,.link-text:hover{color:#29b6f6}.link-geo:active,.link-pseudo:active,.link-text:active{color:#a0d4fa;border-bottom-color:#a0d4fa}.link-text{border-bottom:1px solid #29b6f6}.link-pseudo{border-bottom:1px dashed #29b6f6}.link-geo{color:#039be5;border-bottom:1px dashed #039be5}.bg-dark .link-pseudo,.bg-dark .link-text,.link-pseudo.link-pseudo--bg_dark,.link-text.link-text--bg_dark{color:#fff;border-bottom-color:#29b6f6}.bg-dark .link-pseudo:hover,.bg-dark .link-text:hover,.link-pseudo.link-pseudo--bg_dark:hover,.link-text.link-text--bg_dark:hover{color:#a0d4fa}.bg-dark .link-pseudo:active,.bg-dark .link-text:active,.link-pseudo.link-pseudo--bg_dark:active,.link-text.link-text--bg_dark:active{color:#039be5}.bg-dark .link-pseudo:hover,.bg-dark .link-text:hover,.link-pseudo.link-pseudo--bg_dark:hover,.link-text.link-text--bg_dark:hover{border-bottom-color:#a0d4fa}.bg-dark .link-pseudo:active,.bg-dark .link-text:active,.link-pseudo.link-pseudo--bg_dark:active,.link-text.link-text--bg_dark:active{border-bottom-color:#039be5}.layout-wrapper{max-width:1376px;margin-left:auto;margin-right:auto;box-sizing:border-box;padding-left:16px;padding-right:16px}@media (min-width:1024px){.layout-wrapper{padding-left:24px;padding-right:24px}}@media (min-width:1280px){.layout-wrapper{padding-left:32px;padding-right:32px}}.layout-wrapper--no-padding{padding-left:0!important;padding-right:0!important}.display-block{display:block}.display-inline{display:inline}.display-inline-block{display:inline-block}.display-inherit{display:inherit}.text-align-left{text-align:left}.text-align-center{text-align:center}.text-align-right{text-align:right}.text-align-justify{text-align:justify}.va-top{vertical-align:top}.va-bottom{vertical-align:bottom}.va-middle{vertical-align:middle}.va-baseline{vertical-align:baseline}.centered-element{display:flex;justify-content:center;align-items:center}.grid-vert-list-default>*+*{margin-top:16px}@media (min-width:568px){.grid-vert-list-default>*+*{margin-top:24px}}@media (min-width:1024px){.grid-vert-list-default>*+*{margin-top:32px}}.grid-vert-list-small>*+*{margin-top:8px}@media (min-width:1024px){.grid-vert-list-small>*+*{margin-top:16px}}.grid-vert-list-medium>*+*{margin-top:8px}@media (min-width:568px){.grid-vert-list-medium>*+*{margin-top:16px}}@media (min-width:1024px){.grid-vert-list-medium>*+*{margin-top:24px}}.grid-vert-list-xsmall>*+*{margin-top:4px}@media (min-width:1024px){.grid-vert-list-xsmall>*+*{margin-top:8px}}.grid-vert-list-large>*+*{margin-top:32px}@media (min-width:1024px){.grid-vert-list-large>*+*{margin-top:64px}}.grid-vert-list-xxsmall>*+*{margin-top:4px}.border-radius-default{border-radius:4px}.border-radius-round{border-radius:50%}.shadow-level-1{box-shadow:0 1px 2px 0 rgba(0,0,0,.16)}.shadow-level-2{box-shadow:0 2px 4px 0 rgba(0,0,0,.32)}.shadow-level-3{box-shadow:0 8px 16px 0 rgba(0,0,0,.08),0 4px 16px 0 rgba(0,0,0,.08),0 8px 16px 0 rgba(0,0,0,.08)}.shadow-level-4{box-shadow:0 8px 16px 0 rgba(0,0,0,.08),0 -8px 16px 0 rgba(0,0,0,.04),0 16px 24px 0 rgba(0,0,0,.16)}.shadow-level-4-holder{padding:24px 0 40px}.shadow-level-4-holder-anti{margin:-24px 0 -40px}.shadow-level-5{box-shadow:0 8px 16px 0 rgba(0,0,0,.16),0 8px 24px 0 rgba(0,0,0,.16),0 24px 24px 0 rgba(0,0,0,.16)}.shadow-level-6{box-shadow:0 -8px 16px 0 rgba(0,0,0,.08),0 -4px 16px 0 rgba(0,0,0,.08),0 0 16px 0 rgba(0,0,0,.08)}.shadow-level-7{box-shadow:0 6px 16px 0 rgba(40,70,127,.5),0 2px 3px 0 rgba(40,70,127,.4),0 5px 25px 0 rgba(40,70,127,.4)}.shadow-level-8{box-shadow:0 1px 8px rgba(0,0,0,.08),0 2px 16px rgba(0,0,0,.08)}
+.ldfb09dcf{background:#eceff1;border-radius:4px;-webkit-animation:lac94f36c 1.3s infinite;animation:lac94f36c 1.3s infinite;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out}.l2c23ff47{border-radius:50%}@-webkit-keyframes lac94f36c{0%{background:#eceff1}50%{background:#e5e8ef}to{background:#eceff1}}@keyframes lac94f36c{0%{background:#eceff1}50%{background:#e5e8ef}to{background:#eceff1}}
+</style>
+
+		<link
+			rel="stylesheet"
+			href="//cdn.banki.ru/static/main/ui-2018/all-base-styles-async05e75a1dab16930fa311.css"
+			media="none"
+			onload="this.media='all'"
+		/>
+	
+	
+
+
+	<!-- @ui2018bundle/Layout2018Bundle/full-desktop.css 4939 B --><style>body,html{height:100%}body{background-color:#eaecef;min-width:320px}.page-container{background:#fff;min-height:100%;display:flex;flex-direction:column}.page-container--centered{max-width:1376px;margin:0 auto}.page-container__body{flex-grow:1;flex-shrink:0}html[data-device-type=desktop]{min-width:1024px}.header{background:#fff;box-shadow:0 1px 2px 0 rgba(0,0,0,.16);position:relative;z-index:10}.header__grid{display:flex;align-items:center}.header__grid>*+*{margin-left:32px}.header__grid-min{flex-grow:0}.header__grid-max{flex-grow:1}.header-search__field,.header-search__overlay{display:none}.main-menu{font-size:14px;line-height:20px;color:#212121;font-weight:500;margin-right:auto}.main-menu__sections{height:80px;position:relative;display:flex}.main-menu__sections-link,.main-menu__sections-name{color:inherit}.main-menu__sections-link[data-title]:after,.main-menu__sections-name[data-title]:after{display:block;content:attr(data-title);font-weight:700;height:1px;color:transparent;overflow:hidden;visibility:hidden}.main-menu__sections-link:hover,.main-menu__sections-name:hover{text-decoration:none}.main-menu__sections-item{display:flex;align-items:center;cursor:pointer;padding-right:8px;padding-left:8px}.main-menu__sections-item:first-child{margin-left:-8px}.main-menu__sections-item:nth-last-child(2){margin-right:-8px}.main-menu__sections-item.hovered:not(.main-menu__sections-item--active){color:#29b6f6}.main-menu__sections-item--active{position:relative;font-weight:700}.main-menu__sections-item--active:after{content:"";width:calc(100% - 16px);height:4px;bottom:0;left:8px;position:absolute;background:#28467f}.main-menu__sections-item-border{transition:all .3s linear;height:4px;width:60px;background:#28467f;position:absolute;bottom:0;left:0;display:none}.main-menu[data-state=opened] .main-menu__sections:after,.main-menu[data-state=opened] .main-menu__sections:before{content:"";position:absolute;bottom:0;z-index:1;width:0;height:0;border-style:solid;border-color:transparent}.main-menu[data-state=opened] .main-menu__sections:before{right:100%;border-width:0 0 60px 150px}.main-menu[data-state=opened] .main-menu__sections:after{left:100%;border-width:60px 0 0 150px}.main-menu__subsections-item{position:relative;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:pointer;font-weight:500}.main-menu__subsections-name{box-sizing:border-box;font-size:16px;line-height:24px;font-weight:700}.main-menu__subsections-link{display:block}.main-menu__subsections-link:hover{text-decoration:none}.main-menu__submenu{visibility:hidden;box-sizing:border-box;position:absolute;top:100%;left:0;background-color:#fff;box-shadow:0 8px 16px 0 rgba(0,0,0,.08),0 -8px 16px 0 rgba(0,0,0,.04),0 16px 24px 0 rgba(0,0,0,.16);font-size:14px;line-height:20px;overflow:hidden;width:100%;padding:32px 0 24px}.main-menu__submenu-columns{display:flex;justify-content:space-between}.main-menu__submenu-column{flex-grow:1}.main-menu__submenu-column:not(:first-child){padding-left:24px}.main-menu__submenu-item{white-space:nowrap;margin-bottom:16px}.main-menu__submenu-item a{color:inherit}.main-menu__submenu-item+.main-menu__submenu-item--title{margin-top:32px}.main-menu__submenu-item--title{font-weight:700;font-size:16px;line-height:24px}.main-menu__submenu-item:hover:not(.main-menu__submenu-item--title):not(.main-menu__submenu-item--selected){color:#29b6f6}.main-menu__submenu-item--selected{color:#2ecc71}.main-menu__submenu[data-state=opened]{visibility:visible;transition:all .3s ease-in-out}@media screen and (min-width:1240px){.main-menu{font-size:16px;line-height:24px}.main-menu__sections-item{padding-right:16px;padding-left:16px}.main-menu__sections-item:first-child{margin-left:-16px}.main-menu__sections-item:nth-last-child(2){margin-right:-16px}.main-menu__sections-item--active:after{width:calc(100% - 32px);left:16px}.main-menu__submenu{font-size:16px;line-height:24px}.main-menu__submenu-item--title{font-size:18px;line-height:28px}.main-menu__submenu-column:not(:first-child){padding-left:64px}.main-menu__submenu-column{min-width:230px}}@media (hover:none){.main-menu__sections-link:active{pointer-events:none!important}}.promo-card{position:relative;height:120px;flex-grow:4}.promo-card--large{height:136px}.promo-card--large .dfp-banner{min-width:380px}.env-touch .promo-card--large{z-index:-1}.promo-card__link{position:absolute;top:0;right:0;display:flex;width:100%;justify-content:flex-end}.env-touch .promo-card__link{display:block}.promo-card__img{height:120px}.promo-card__img--large{height:136px}.env-touch .promo-card__img--large{height:auto;width:80%;max-width:350px;padding-left:16px;padding-top:10px}.header-auth-counter{position:absolute;margin-top:-7px;margin-left:-6px}.dropdown-popup{position:relative}.dropdown-popup__dropdown{visibility:hidden;position:absolute;z-index:20;top:30px;right:-10px;width:240px}.dropdown-popup__dropdown--opened{visibility:visible}
+</style>
+
+			<script>
+	var banki = {
+		ui: {},
+		utils: {},
+		modules: {},
+		env: {
+			envValue: 'production',
+			devMode: false,
+			browser: {},
+			isLocalStorage: 'localStorage' in window || typeof localStorage === 'object',
+			time: 1623761010000, // current timestamp in milliseconds
+			timezoneOffset: 10800000,
+			isMobileMode: false,
+			isMobileDevice: false,
+			isMobileApp: false,
+			getIsSmallScreen: function() {
+				var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+				var height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+				return (width + height) < 1200;
+			},
+			isTouchDevice: 'ontouchstart' in window || navigator.msMaxTouchPoints,
+			device: 'desktop'
+		},
+					auth: {
+				isNew: true,
+			},
+			};
+</script>
+
+	
+	<!-- @ui2018common/head.js 2191 B --><script>!function(e){var n={};function t(o){if(n[o])return n[o].exports;var r=n[o]={i:o,l:!1,exports:{}};return e[o].call(r.exports,r,r.exports,t),r.l=!0,r.exports}t.m=e,t.c=n,t.d=function(e,n,o){t.o(e,n)||Object.defineProperty(e,n,{enumerable:!0,get:o})},t.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},t.t=function(e,n){if(1&n&&(e=t(e)),8&n)return e;if(4&n&&"object"==typeof e&&e&&e.__esModule)return e;var o=Object.create(null);if(t.r(o),Object.defineProperty(o,"default",{enumerable:!0,value:e}),2&n&&"string"!=typeof e)for(var r in e)t.d(o,r,function(n){return e[n]}.bind(null,r));return o},t.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return t.d(n,"a",n),n},t.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},t.p="/static/main/ui-2018/",t(t.s=370)}({133:function(e,n){document.documentElement.classList.remove("env-no-js"),document.documentElement.classList.add("env-js")},134:function(e,n){"ontouchstart"in window||navigator.maxTouchPoints?document.documentElement.classList.add("env-touch"):document.documentElement.classList.add("env-no-touch")},370:function(e,n,t){"use strict";t.r(n);t(133);var o=function(){var e=window.navigator.userAgent,n=e.indexOf("MSIE ");if(n>0)return parseInt(e.substring(n+5,e.indexOf(".",n)),10);if(e.indexOf("Trident/")>0){var t=e.indexOf("rv:");return parseInt(e.substring(t+3,e.indexOf(".",t)),10)}var o=e.indexOf("Edge/");return o>0&&parseInt(e.substring(o+5,e.indexOf(".",o)),10)}(),r=/Chrome/.test(navigator.userAgent);o?(document.documentElement.classList.add("ie"),document.documentElement.classList.add("ie-".concat(o))):r&&document.documentElement.classList.add("chrome"),-1!==navigator.userAgent.indexOf("WebKit")&&document.documentElement.classList.add("env-webkit");var u,i,d;t(134);banki.utils.domReady=(u=banki.env.devMode,i=[],d=0,{push:function(e){i.push(e)},run:function(){for(d++;i.length>0;){var e=i.shift(),n=void 0,t=void 0;"function"==typeof e&&(n=new Date,e(),t=new Date-n,u&&t>100&&console.warn(e,t+" мс"))}},getRunCount:function(){return d}})}});</script>
+
+	
+
+		
+			<link rel="manifest" href="/static/manifest.json" />
+	<link rel="shortcut icon" href="/static/favicons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicons/favicon-32x32.png">
+
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#fff">
+<meta name="application-name" content="Banki.ru — финансовый супермаркет">
+<link rel="apple-touch-icon" sizes="57x57" href="/static/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/static/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/static/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/static/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/static/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/static/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/static/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/static/favicons/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="1024x1024" href="/static/favicons/apple-touch-icon-1024x1024.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Banki.ru — финансовый супермаркет">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/static/favicons/apple-touch-startup-image-320x460.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/static/favicons/apple-touch-startup-image-640x920.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/static/favicons/apple-touch-startup-image-640x1096.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/static/favicons/apple-touch-startup-image-750x1294.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/static/favicons/apple-touch-startup-image-1182x2208.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/static/favicons/apple-touch-startup-image-1242x2148.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/static/favicons/apple-touch-startup-image-748x1024.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/static/favicons/apple-touch-startup-image-768x1004.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/static/favicons/apple-touch-startup-image-1496x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/static/favicons/apple-touch-startup-image-1536x2008.png">
+<link rel="icon" type="image/png" sizes="228x228" href="/static/favicons/coast-228x228.png">
+<meta name="msapplication-TileColor" content="#fff">
+<meta name="msapplication-TileImage" content="/static/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="/static/favicons/browserconfig.xml">
+<link rel="yandex-tableau-widget" href="/static/favicons/yandex-browser-manifest.json">	</head>
+
+	<body 			>
+					<div class="layout-wrapper">
+				<noscript>
+					<div class="margin-vert-medium">
+						Внимание! В вашем браузере отключено выполнение JavaScript. Возможно неоптимальное отображения ряда элементов сайта и недоступность удобного функционала.
+					</div>
+				</noscript>
+
+				<!--[if lt IE 11]>
+					<div class="margin-vert-medium">
+						Вы используете устаревший браузер. Возможна некорректная работа функционала.
+					</div>
+				<![endif]-->
+			</div>
+		
+		
+			<div data-header-banner>
+											
+	<div
+				data-dfp-container
+	>
+		<div
+			
+							style="display: none;"
+					>
+			<div class="js-dfp-banners dfp-banner"
+				 data-dfp-name="mainTop" 			></div>
+		</div>
+	</div>
+
+						</div>
+
+			<div class="page-container">
+			<div class="page-container__header">
+									
+<header class="header" data-test="header-toolbar">
+	<div class="layout-wrapper" data-header-layout>
+		<div class="header__grid">
+			<div class="header__grid-min">
+				
+
+<!-- htmlmin:ignore -->
+<a href="/"	title="Banki.ru &bull; финансовый супермаркет"
+>
+<!-- htmlmin:ignore -->
+
+			<svg width="179" height="28" viewBox="0 0 179 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M151.037 8H156V12H150.8C149.8 12 148.019 12.791 148 15V28H142V14.5464C142 13.0607 142.484 11.6201 143.416 10.3838C144.207 9.30453 145.278 8.6075 146.625 8.28918C147.487 8.08668 149.132 8 151.037 8ZM130 8V28H124V8H130ZM65.1258 8C67.0345 8 68.1696 8.16866 69.092 8.50403C70.0343 8.81595 70.9157 9.29384 71.5861 9.94397C72.4623 10.8129 73.0335 11.6137 73.4868 12.6961C73.7787 13.7001 74.0203 13.9542 74.0203 16.6749V28H59.2603C57.6221 28 56.2105 27.6511 55.0679 26.5548C53.924 25.4634 53.3403 23.4818 53.3403 21.812C53.3403 20.0485 53.9936 18.5464 55.0473 17.4117C56.1004 16.2507 57.0151 16.0199 58.6078 16.0199L68.3557 16.013L68.3395 14.8657C68.4322 13.7833 67.2413 12.0242 65.4849 12.0059L62.8153 11.9943L55.0003 12.0153V8H65.1258ZM36.0003 0V8.01H42.9441C45.3036 8.10526 47.2916 9.12487 48.8586 11.1605C50.3161 13.0555 51.0459 15.3334 51.0459 17.9432C51.0459 20.6645 50.3168 23.0114 48.8802 24.9966C47.316 27.1424 45.3294 28 42.8758 28H30.0703V0H36.0003ZM106 0V18.045L113.856 8.10526H120.98L112.539 18.0507L121 28H113.815L106 18.055V28H100V0H106ZM88.5938 8C90.419 8 91.7568 8.08643 92.5804 8.28857C93.8732 8.60714 94.8966 9.30429 95.6541 10.3829C96.5417 11.6186 96.9884 12.99 96.9884 14.475L97.0003 28H91.0003L91.0225 15.1878C91.0109 11.8914 87.6868 11.9821 87.6868 11.9821L83.0003 11.99V28L77.0003 27.9763V8H88.5938ZM165.07 8L165.048 20.8122C165.06 24.1086 168.384 24.0179 168.384 24.0179L173.07 24.01V8L179.07 8.02368V28H167.477C165.652 28 164.314 27.9136 163.49 27.7114C162.197 27.3929 161.174 26.6957 160.417 25.6171C159.529 24.3814 159.082 23.01 159.082 21.525L159.07 8H165.07ZM40.8851 12H35.9703V24H41.1436C42.4611 24 43.5202 23.3932 44.3201 22.213C45.1384 21.0297 45.5503 19.6322 45.5503 18.0802C45.5503 16.4824 45.1186 15.0626 44.2307 13.8373C43.349 12.6009 42.2456 12 40.8851 12ZM68.3134 20L60.6506 20.0126C60.6506 20.0126 59.6563 20.0245 59.1422 20.4474C58.6581 20.8656 58.3403 21.4321 58.3403 22.1241C58.3403 22.7435 58.6474 23.2422 59.1099 23.6368C59.5955 24.0384 59.9764 23.9989 60.5852 23.9989H68.3403L68.3134 20Z" fill="#223046"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M124 1H130V6H124V1Z" fill="#3498DB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M133 23H139V28H133V23Z" fill="#F57C00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 0H24V6H13V0Z" fill="#039BE5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 11H24V17H7V11Z" fill="#1BAF5D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 22H24V28H0V22Z" fill="#F57C00"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="179" height="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+	
+<!-- htmlmin:ignore -->
+</a>
+<!-- htmlmin:ignore -->
+
+			</div>
+
+			<div class="header__grid-max">
+				
+<nav class="main-menu" data-init="layout.mainMenu" data-menu-container>
+		<ul class="main-menu__sections" data-test="main-menu-sections">
+					<li class="main-menu__sections-item " data-section data-submenu-idx=deposits >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item" >
+											<a class="main-menu__sections-link"  href="/products/deposits/?source=main_menu_deposits" data-title="Вклады">Вклады</a>
+									</div>
+			</li>
+					<li class="main-menu__sections-item " data-section data-submenu-idx=credits >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item" >
+											<a class="main-menu__sections-link" target="_blank" href="/credit-master/?source=main_menu_master" data-title="Кредиты">Кредиты</a>
+									</div>
+			</li>
+					<li class="main-menu__sections-item " data-section data-submenu-idx=cards >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item" >
+											<a class="main-menu__sections-link"  href="/products/creditcards/?source=main_menu_creditcards" data-title="Карты">Карты</a>
+									</div>
+			</li>
+					<li class="main-menu__sections-item " data-section data-submenu-idx=mortgage >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item" >
+											<a class="main-menu__sections-link"  href="/products/hypothec/?source=main_menu_hypothec" data-title="Ипотека">Ипотека</a>
+									</div>
+			</li>
+					<li class="main-menu__sections-item " data-section data-submenu-idx=insurance >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item" >
+											<a class="main-menu__sections-link"  href="/insurance/?source=main_menu_insurance" data-title="Страхование">Страхование</a>
+									</div>
+			</li>
+					<li class="main-menu__sections-item " data-section data-submenu-idx=investment >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item" >
+											<a class="main-menu__sections-link"  href="/investment/?source=main_menu_share" data-title="Инвестиции">Инвестиции</a>
+									</div>
+			</li>
+					<li class="main-menu__sections-item " data-section data-submenu-idx=business >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item" >
+											<a class="main-menu__sections-link"  href="/business/?source=topmenu" data-title="Бизнес">Бизнес</a>
+									</div>
+			</li>
+					<li class="main-menu__sections-item " data-section data-submenu-idx=news >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item" >
+											<a class="main-menu__sections-link"  href="/news/?source=main_menu_news" data-title="Новости">Новости</a>
+									</div>
+			</li>
+					<li class="main-menu__sections-item " data-section data-submenu-idx=more >
+				<div data-test-comp="subsections-item" class="main-menu__sections-name js-add-ga" data-test="subsections-item"  data-title="Ещё" >
+											Ещё
+									</div>
+			</li>
+				<li class="main-menu__sections-item-border" data-active-item-border></li>
+	</ul>
+
+		<div class="main-menu__submenu" data-submenu>
+		<div class="layout-wrapper">
+							<div data-submenu-deposits data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/deposits/?source=submenu_deposits"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'deposits', undefined);"
+													
+													data-submenu-item-path="Вклады"
+												>
+													Вклады
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/specials/deposits/?source=submenu_spdeposits"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'lenta', undefined);"
+													
+													data-submenu-item-path="Вклады"
+												>
+													Специальные предложения
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/deposits/catalogue/nakopitelnyie_scheta/?source=submenu_nsch"
+																										
+													
+													data-submenu-item-path="Вклады"
+												>
+													Накопительные счета
+												</a>
+																																													</div>
+																	</div>
+							
+															<div class="main-menu__submenu-column promo-card promo-card--large">
+											
+	<div
+				data-dfp-container
+	>
+		<div
+			
+							style="
+														"
+					>
+			<div class="js-dfp-banners dfp-banner"
+				 data-dfp-name="MenuDeposits" data-lazy-load			></div>
+		</div>
+	</div>
+
+								</div>
+													</div>
+					
+									</div>
+							<div data-submenu-credits data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/credit-master/?source=submenu_master"
+													target="_blank"													onClick="pushGtmEvent('mainmenu', 'click', 'prod_creditmaster', undefined);"
+													
+													data-submenu-item-path="Кредиты"
+												>
+													Мастер подбора кредитов
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/credits/?source=submenu_credits"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'credits', undefined);"
+													
+													data-submenu-item-path="Кредиты"
+												>
+													Потребительские кредиты
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/refinance/?source=submenu_refcredits"
+																										
+													
+													data-submenu-item-path="Кредиты"
+												>
+													Рефинансирование
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/microloans/?source=submenu_microloans"
+																										
+													
+													data-submenu-item-path="Кредиты"
+												>
+													Микрозаймы
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/autoloans/?source=submenu_autocredits"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'autocredits', undefined);"
+													
+													data-submenu-item-path="Кредиты"
+												>
+													Автокредиты
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/services/calculators/credits/?source=submenu_calc_credits"
+																										
+													
+													data-submenu-item-path="Кредиты"
+												>
+													Кредитный калькулятор
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/creditrating/?source=submenu_credit_rating"
+																										
+													
+													data-submenu-item-path="Кредиты"
+												>
+													Кредитный рейтинг
+												</a>
+																																													</div>
+																	</div>
+							
+															<div class="main-menu__submenu-column promo-card promo-card--large">
+											
+	<div
+				data-dfp-container
+	>
+		<div
+			
+							style="
+														"
+					>
+			<div class="js-dfp-banners dfp-banner"
+				 data-dfp-name="MenuCredits" data-lazy-load			></div>
+		</div>
+	</div>
+
+								</div>
+													</div>
+					
+									</div>
+							<div data-submenu-cards data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/creditcards/?source=submenu_creditcards"
+																										
+													
+													data-submenu-item-path="Карты"
+												>
+													Кредитные карты
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/creditcards/catalogue/kartyi_rassrochki/?source=submenu_kartyirassrochki"
+																										
+													
+													data-submenu-item-path="Карты"
+												>
+													Карты рассрочки
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/debitcards/?source=submenu_debitcards"
+																										
+													
+													data-submenu-item-path="Карты"
+												>
+													Дебетовые карты
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/credit-master/anketa/?source=submenu_mastercc&amp;purposeCode=11"
+													target="_blank"													
+													
+													data-submenu-item-path="Карты"
+												>
+													Мастер подбора кредитных карт
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/specials/debitcards/?source=submenu_spdebitcards"
+																										
+													
+													data-submenu-item-path="Карты"
+												>
+													Специальные предложения
+												</a>
+																																													</div>
+																	</div>
+							
+															<div class="main-menu__submenu-column promo-card promo-card--large">
+											
+	<div
+				data-dfp-container
+	>
+		<div
+			
+							style="
+														"
+					>
+			<div class="js-dfp-banners dfp-banner"
+				 data-dfp-name="MenuCards" data-lazy-load			></div>
+		</div>
+	</div>
+
+								</div>
+													</div>
+					
+									</div>
+							<div data-submenu-mortgage data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/credit-master/anketa/?source=submenu_masterhypothec&amp;purposeCode=7"
+													target="_blank"													
+													
+													data-submenu-item-path="Ипотека"
+												>
+													Мастер подбора ипотеки
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/hypothec/?source=submenu_hypothec"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'hypothec', undefined);"
+													
+													data-submenu-item-path="Ипотека"
+												>
+													Ипотечные кредиты
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/order/realty/mortgage/?source=submenu_hypmortgage"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'hypothec', undefined);"
+													
+													data-submenu-item-path="Ипотека"
+												>
+													Ипотечное страхование
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/hypothec/catalogue/refinansirovanie_ipoteki/?source=submenu_refhypothec"
+																										
+													
+													data-submenu-item-path="Ипотека"
+												>
+													Рефинансирование
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/hypothec/catalogue/ipoteka_na_kvartiru_na_vtorichnom_ryinke/?source=submenu_vtorhypothec"
+																										
+													
+													data-submenu-item-path="Ипотека"
+												>
+													Вторичное жильё
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/hypothec/catalogue/ipoteka_na_kvartiru_v_novostroyke/?source=submenu_novoshypothec"
+																										
+													
+													data-submenu-item-path="Ипотека"
+												>
+													Новостройки
+												</a>
+																																													</div>
+																	</div>
+							
+															<div class="main-menu__submenu-column promo-card promo-card--large">
+											
+	<div
+				data-dfp-container
+	>
+		<div
+			
+							style="
+														"
+					>
+			<div class="js-dfp-banners dfp-banner"
+				 data-dfp-name="MenuHypothec" data-lazy-load			></div>
+		</div>
+	</div>
+
+								</div>
+													</div>
+					
+									</div>
+							<div data-submenu-insurance data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/order/auto/type/osago/?source=submenu_osago"
+																										
+													
+													data-submenu-item-path="Страхование"
+												>
+													ОСАГО
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/order/auto/type/kasko/?source=submenu_kasko"
+																										
+													
+													data-submenu-item-path="Страхование"
+												>
+													КАСКО
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/order/tourism/?source=submenu_tourism"
+																										
+													
+													data-submenu-item-path="Страхование"
+												>
+													Туризм
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/order/realty/mortgage/?source=submenu_insmortgage"
+																										
+													
+													data-submenu-item-path="Страхование"
+												>
+													Ипотечное страхование
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/order/life/?source=submenu_life"
+																										
+													
+													data-submenu-item-path="Страхование"
+												>
+													Жизнь и здоровье
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/?source=submenu_insurance"
+																										
+													
+													data-submenu-item-path="Страхование"
+												>
+													Все предложения
+												</a>
+																																													</div>
+																	</div>
+							
+															<div class="main-menu__submenu-column promo-card promo-card--large">
+											
+	<div
+				data-dfp-container
+	>
+		<div
+			
+							style="
+														"
+					>
+			<div class="js-dfp-banners dfp-banner"
+				 data-dfp-name="MenuInsurance" data-lazy-load			></div>
+		</div>
+	</div>
+
+								</div>
+													</div>
+					
+									</div>
+							<div data-submenu-investment data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/?source=submenu_investment"
+																										
+													
+													data-submenu-item-path="Инвестиции"
+												>
+													С чего начать
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/search/share/?source=submenu_share"
+																										
+													
+													data-submenu-item-path="Инвестиции"
+												>
+													Aкции
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/brokers/?source=submenu_investment"
+																										
+													
+													data-submenu-item-path="Инвестиции"
+												>
+													Подбор брокера
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/specials/investment/?source=submenu_spinvestment"
+																										
+													
+													data-submenu-item-path="Инвестиции"
+												>
+													Специальные предложения
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/education/?source=submenu_education"
+																										
+													
+													data-submenu-item-path="Инвестиции"
+												>
+													Обучение
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/mutual/?source=submenu_mutual"
+																										
+													
+													data-submenu-item-path="Инвестиции"
+												>
+													Фонды
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/landing/iia/?cat=iia_products&amp;source=submenu_iia"
+																										
+													
+													data-submenu-item-path="Инвестиции"
+												>
+													ИИС
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/search/?source=submenu_bond"
+																										
+													
+													data-submenu-item-path="Инвестиции"
+												>
+													Облигации
+												</a>
+																																													</div>
+																	</div>
+							
+															<div class="main-menu__submenu-column promo-card promo-card--large">
+											
+	<div
+				data-dfp-container
+	>
+		<div
+			
+							style="
+														"
+					>
+			<div class="js-dfp-banners dfp-banner"
+				 data-dfp-name="MenuInvestment" data-lazy-load			></div>
+		</div>
+	</div>
+
+								</div>
+													</div>
+					
+									</div>
+							<div data-submenu-business data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/business/"
+																										
+													
+													data-submenu-item-path="Бизнес"
+												>
+													Все продукты
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/rko/?source=menu"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'rko', undefined);"
+													
+													data-submenu-item-path="Бизнес"
+												>
+													Расчётно-кассовое обслуживание
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/debitcards/catalogue/biznes_kartyi/?source=submenu_biznes_kartyi"
+																										
+													
+													data-submenu-item-path="Бизнес"
+												>
+													Бизнес-карты
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/credits/catalogue/kredit_dlya_ip/?source=submenu_kredit_dlya_ip"
+																										
+													
+													data-submenu-item-path="Бизнес"
+												>
+													Кредиты для ИП
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/order/business/?source=submenu_business"
+																										
+													
+													data-submenu-item-path="Бизнес"
+												>
+													Страхование бизнеса
+												</a>
+																																													</div>
+																	</div>
+							
+															<div class="main-menu__submenu-column promo-card promo-card--large">
+											
+	<div
+				data-dfp-container
+	>
+		<div
+			
+							style="
+														"
+					>
+			<div class="js-dfp-banners dfp-banner"
+				 data-dfp-name="MenuBusiness" data-lazy-load			></div>
+		</div>
+	</div>
+
+								</div>
+													</div>
+					
+									</div>
+							<div data-submenu-news data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/?source=submenu_news"
+																										
+													
+													data-submenu-item-path="Новости"
+												>
+													Все события дня
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/lenta/?source=submenu_lenta"
+																										
+													
+													data-submenu-item-path="Новости"
+												>
+													Лента новостей
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/daytheme/?source=submenu_daytheme"
+																										
+													
+													data-submenu-item-path="Новости"
+												>
+													Тема дня
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/columnists/?source=submenu_columnists"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'columnists', undefined);"
+													
+													data-submenu-item-path="Новости"
+												>
+													Мнение
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/interview/?source=submenu_interview"
+																										
+													
+													data-submenu-item-path="Новости"
+												>
+													Интервью
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/research/?source=submenu_research"
+																										
+													
+													data-submenu-item-path="Новости"
+												>
+													Исследования
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/partners/?source=submenu_partners"
+																										
+													
+													data-submenu-item-path="Новости"
+												>
+													Партнерские материалы
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="https://tests.banki.ru/?source=submenu_tests"
+													target="_blank"													
+													
+													data-submenu-item-path="Новости"
+												>
+													Тесты
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/video/?source=submenu_video"
+																										
+													
+													data-submenu-item-path="Новости"
+												>
+													Видео
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/wikibank/?source=submenu_wikibank"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'wikibank', undefined);"
+													
+													data-submenu-item-path="Новости"
+												>
+													Банковский словарь
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/pressreleases/?source=submenu_pressreleases"
+																										
+													
+													data-submenu-item-path="Новости"
+												>
+													Пресс-релизы
+												</a>
+																																													</div>
+																	</div>
+							
+													</div>
+					
+									</div>
+							<div data-submenu-more data-submenu-item class="is-hidden">
+											<div class="main-menu__submenu-columns">
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											main-menu__submenu-item--title"
+											>
+																							<span>
+													Банки
+																									</span>
+																					</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/banks/moskva/?source=submenu_banksmoskva"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Банки Москвы
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											main-menu__submenu-item--title"
+											>
+																							<span>
+													Компании
+																									</span>
+																					</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/companies/?source=submenu_inscompanies"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Страховые компании
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/brokers/?source=submenu_insbrokers"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Страховые агенты и брокеры
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/microloans/companies/?source=submenu_miccompanies"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Микрофинансовые организации
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/brokers/?source=submenu_investbrokers"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Биржевые брокеры
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/investment/asset/?source=submenu_investasset"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Управляющие компании
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											main-menu__submenu-item--title"
+											>
+																							<span>
+													Рейтинги
+																									</span>
+																					</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/services/responses/?source=submenu_banksresponses"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'responses', undefined);"
+													
+													data-submenu-item-path="Ещё"
+												>
+													Народный рейтинг банков
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/insurance/responses/?source=submenu_insresponses"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Народный рейтинг страховых компаний
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/services/official/?source=submenu_servicesofficial"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Служебный рейтинг банков
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/bankofyear/?source=submenu_tickets"
+													target="_blank"													onClick="pushGtmEvent('mainmenu', 'click', 'bankgoda', undefined);"
+													
+													data-submenu-item-path="Ещё"
+												>
+													Банк года
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											main-menu__submenu-item--title"
+											>
+																							<span>
+													Показатели банков и компаний
+																									</span>
+																					</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/banks/ratings/?source=submenu_banksratings"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Финансовые показатели банков
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											main-menu__submenu-item--title"
+											>
+																							<span>
+													Общение
+																									</span>
+																					</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/services/questions-answers/?source=submenu_questions_answers"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Вопрос-ответ
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/forum/?source=submenu_forum"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Форум
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/news/events/?source=submenu_events"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Мероприятия
+												</a>
+																																													</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/blog/history.php?source=submenu_blog"
+																										
+													
+													data-submenu-item-path="Ещё"
+												>
+													Блоги
+												</a>
+																																													</div>
+																	</div>
+															<div class="main-menu__submenu-column" data-test-comp="submenu-column">
+																			<div class="main-menu__submenu-item
+											
+											main-menu__submenu-item--title"
+											>
+																							<span>
+													Сервисы
+																									</span>
+																					</div>
+																			<div class="main-menu__submenu-item
+											
+											"
+											>
+																							<a href="/products/currency/?source=submenu_currency"
+																										onClick="pushGtmEvent('mainmenu', 'click', 'cb', undefined);"
+													
+													data-submenu-item-path="Ещё"
+												>
+													Курсы валют
+												</a>
+																																													</div>
+																	</div>
+							
+													</div>
+					
+									</div>
+					</div>
+	</div>
+</nav>
+
+			</div>
+
+										<div class="header__grid-min">
+								<span data-geo-selector>
+			
+<script>
+            (function() {
+                var linkElement = document.createElement('link');
+                linkElement.rel = 'stylesheet';
+                linkElement.type = 'text/css';
+                linkElement.media = 'screen';
+                linkElement.href = '/static/main/ui-2018/ui/icon05e75a1dab16930fa311.css';
+                document.head.appendChild(linkElement);
+            }());
+        </script>
+
+
+<span class="l42522c89 l33027d71 l9335582b la07d686d l5019cbcd">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 3C8.14 3 5 5.964 5 9.609a6.2 6.2 0 001.239 3.755L12.055 20c1.525-1.734 4.565-5.209 5.713-6.643C18.574 12.35 19 11.053 19 9.61 19 5.964 15.86 3 12 3m.05 20c-.325-.038-.653-.146-.867-.4L4.67 14.9A8.551 8.551 0 013 9.8C3 4.948 7.038 1 12 1s9 3.948 9 8.8c0 1.925-.568 3.677-1.642 5.069-1.528 1.979-6.244 7.502-6.444 7.736-.213.25-.53.395-.863.395M12 7c-1.655 0-3 1.345-3 3s1.345 3 3 3 3-1.345 3-3-1.345-3-3-3m0 8c-2.756 0-5-2.242-5-5 0-2.756 2.244-5 5-5 2.758 0 5 2.244 5 5 0 2.758-2.242 5-5 5"/></svg>
+</span>
+		</span>
+	
+	
+				</div>
+			
+			<div class="header__grid-min">
+				<div data-test="header-auth">
+	<a href="/auth/?type=login" data-click="show-auth-popup">
+		
+
+
+
+<span class="l42522c89 l33027d71 la07d686d l5019cbcd">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20 19.007c0 .551-.449 1-1 1H5c-.551 0-1-.449-1-1v-2c0-1.654 1.346-3 3-3h10c1.654 0 3 1.346 3 3v2zM12.127 4c2.206 0 4 1.795 4 4 0 2.206-1.794 4-4 4-2.205 0-4-1.794-4-4 0-2.205 1.795-4 4-4zM17 12.007h-.419A5.967 5.967 0 0018.127 8c0-3.308-2.691-6-6-6-3.308 0-6 2.692-6 6 0 1.541.589 2.944 1.547 4.007H7c-2.757 0-5 2.243-5 5v2c0 1.654 1.346 3 3 3h14c1.654 0 3-1.346 3-3v-2c0-2.757-2.243-5-5-5z"/></svg>
+</span>
+	</a>
+</div>
+
+
+			</div>
+
+			<div class="header__grid-min">
+				<div class="header-search" data-search-container>
+			<span data-click="open-search" data-test="header-search">
+			
+
+
+
+<span class="l42522c89 l33027d71 l9335582b la07d686d l5019cbcd">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 2c-5 0-9 4-9 9 0 2.1.7 4.1 2 5.6l-3.7 3.7c-.4.4-.4 1 0 1.4.2.2.5.3.7.3s.5-.1.7-.3L7.4 18c1.5 1.2 3.5 2 5.6 2 5 0 9-4 9-9s-4-9-9-9zm0 16c-3.9 0-7-3.1-7-7s3.1-7 7-7 7 3.1 7 7-3.1 7-7 7z"/></svg>
+</span>
+		</span>
+
+		<div class="header-search__field" data-search-bar>
+			<div class="header-search__field-input layout-wrapper">
+				<form action="/search/" method="get" class="item__node item__node--input js-search-input-form">
+	<input type="hidden" name="utf8" value="1"/>
+
+	<div class="input-search" data-test="global-search">
+		<div class="header-search__field-input-wrap">
+			<input type="search" name="q" value="" class="header-search__field-input-query" placeholder="Поиск по сайту" autocomplete="off" data-test="input-search" />
+			<button class="header-search__field-input-button" type="submit" name="s" value="" data-search-button data-test="submit-search-button">
+				
+
+
+
+<span class="l42522c89 l33027d71 la07d686d l5019cbcd">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 2c-5 0-9 4-9 9 0 2.1.7 4.1 2 5.6l-3.7 3.7c-.4.4-.4 1 0 1.4.2.2.5.3.7.3s.5-.1.7-.3L7.4 18c1.5 1.2 3.5 2 5.6 2 5 0 9-4 9-9s-4-9-9-9zm0 16c-3.9 0-7-3.1-7-7s3.1-7 7-7 7 3.1 7 7-3.1 7-7 7z"/></svg>
+</span>
+			</button>
+		</div>
+		<button data-click="close-search" class="header-search__field-close">
+			
+
+
+
+<span class="l42522c89 l33027d71 la07d686d l5019cbcd">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13.4 12l5.3-5.3c.4-.4.4-1 0-1.4s-1-.4-1.4 0L12 10.6 6.7 5.3c-.4-.4-1-.4-1.4 0s-.4 1 0 1.4l5.3 5.3-5.3 5.3c-.4.4-.4 1 0 1.4.2.2.5.3.7.3s.5-.1.7-.3l5.3-5.3 5.3 5.3c.2.2.5.3.7.3s.5-.1.7-.3c.4-.4.4-1 0-1.4L13.4 12z"/></svg>
+</span>
+		</button>
+	</div>
+</form>
+			</div>
+		</div>
+		<div class="header-search__overlay" data-search-overlay></div>
+	</div>
+
+			</div>
+		</div>
+	</div>
+</header>
+
+							</div>
+
+			<div class="page-container__body"
+							>
+							<script>
+            (function() {
+                var linkElement = document.createElement('link');
+                linkElement.rel = 'stylesheet';
+                linkElement.type = 'text/css';
+                linkElement.media = 'screen';
+                linkElement.href = '/static/main/ui-2018/ui/grid05e75a1dab16930fa311.css';
+                document.head.appendChild(linkElement);
+            }());
+        </script>
+	
+	<div class="bg-minor-black-lighten2"
+		 data-module="//cdn.banki.ru/static/bundles/ui-2018/FaqBundle/pages/bank-topicdb4bb7e324.js"
+		 data-page-name="bank">
+				<div class="margin-bottom-default  bg-white">
+			<!-- @ui2018bundle/FaqBundle/hotline-stats/hotline-stats.css 2464 B --><style>@media (max-width:992px){.l61142c99{flex-direction:column;align-items:center}}.l37dd18af{margin-bottom:8px;text-align:center}@media (min-width:576px){.l37dd18af{margin-bottom:16px}}@media (min-width:992px){.l37dd18af{text-align:left}}.l8e732cc1{font-size:18px;line-height:28px;padding-bottom:32px;padding-right:32px}@media (max-width:992px){.l8e732cc1{font-size:16px;line-height:24px;text-align:center;padding-bottom:16px;padding-right:0}}.l19749455{flex:6;padding-right:80px}@media (max-width:992px){.l19749455{order:2;padding-right:0}}.lf0a1252e{flex:5;padding-left:16px}.lf0a1252e img{width:100%}@media (max-width:992px){.lf0a1252e img{max-width:425px}}@media (max-width:992px){.lf0a1252e{order:1;padding-left:0;padding-bottom:16px;text-align:center}}.l0c5ce704{display:flex;flex-direction:column;justify-content:space-between;margin-bottom:16px}@media (min-width:576px){.l0c5ce704{flex-direction:row;margin-bottom:0}}@media (min-width:992px){.l0c5ce704>.lc6554b0a+.lc6554b0a{margin-left:24px}}.lc6554b0a{flex:1}@media (max-width:992px){.lc6554b0a{flex:initial;text-align:center}}@media (max-width:576px){.lc6554b0a{display:flex;align-items:center;justify-content:space-between;margin-top:8px}}.l453bb8e3{font-size:14px;line-height:20px;color:#747474}@media (min-width:576px){.l453bb8e3{font-size:16px;line-height:24px}}.l705c3766{font-size:32px;line-height:40px;font-weight:700;margin-top:8px}@media (max-width:768px){.l705c3766{font-size:24px;line-height:32px}}@media (max-width:576px){.l705c3766{font-size:18px;line-height:28px;margin-top:0}}.l103d0b94{margin-top:32px}@media (max-width:768px){.l103d0b94{display:flex;justify-content:center;margin-top:24px}}@media (max-width:576px){.l103d0b94{margin-top:16px}.l103d0b94 button{width:100%}}.ld041714a{width:100%}.l61142c99{position:relative;display:flex;justify-content:center}.l9094e816{width:100%;margin-top:16px;text-align:center}@media (min-width:576px){.l9094e816{margin-top:24px}}@media (min-width:768px){.l9094e816{margin-top:32px}}.l91163c63{max-width:100px;height:40px}@media (min-width:576px){.l91163c63{max-width:140px;height:56px}}@media (min-width:992px){.l91163c63{max-width:180px;height:72px}}.lcd42a62f{color:#747474;font-size:14px;line-height:20px;padding-bottom:8px}.l32cd46c5{min-width:24px;padding:0 8px;height:24px;display:inline-flex;border-radius:100px;justify-content:center;align-items:center;background-color:#039be5;color:#fff;font-size:14px;font-weight:400;box-sizing:border-box}
+</style>
+
+
+<div class="bg-white">
+	<div class="layout-wrapper padding-vert-default">
+		<div class="l61142c99">
+			<!-- @ui2018bundle/FaqBundle/back-button/back-button.css 200 B --><style>.lf9c1d90e{position:absolute;max-width:180px;left:0;top:0}.l316f815a{display:none;color:#039be5}@media (min-width:576px){.l316f815a{display:inline}}@media (min-width:576px){.l01cff229{color:#039be5}}
+</style>
+
+
+<a
+	class="flexbox flexbox--align-items_center link-icon lf9c1d90e"
+	href="/services/questions-answers/"
+>
+	<i class="link-icon__icon l01cff229">
+		
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.3 12.7l6 6c.2.2.5.3.7.3s.5-.1.7-.3c.4-.4.4-1 0-1.4L10.4 12l5.3-5.3c.4-.4.4-1 0-1.4s-1-.4-1.4 0l-6 6c-.4.4-.4 1 0 1.4z"/></svg>
+</span>
+	</i>
+	<span class="link-icon__text l316f815a">Вопрос — ответ</span>
+</a>
+			<div class=" ld041714a flexbox flexbox--vert flexbox--align-items_center">
+																	<a href="" data-head-logo>
+						<img class="l91163c63" src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" />
+					</a>
+								<h1 class="text-size-1 text-weight-black text-align-center margin-top-small">Горячая линия СберБанка задать вопрос онлайн</h1>
+								<div class="text-size-5 margin-top-medium">
+					<span>
+						<span class="color-minor-black-lighten">Вопросов:</span>
+						<span class="text-bold text-weight-bolder margin-left-xx-small-fixed">103 280</span>
+					</span>
+											<span class="margin-left-default">
+							<span class="color-minor-black-lighten">Время ответа:</span>
+							<span class="text-bold text-weight-bolder margin-left-xx-small-fixed">2 часа</span>
+						</span>
+									</div>
+
+									<script>
+            (function() {
+                var linkElement = document.createElement('link');
+                linkElement.rel = 'stylesheet';
+                linkElement.type = 'text/css';
+                linkElement.media = 'screen';
+                linkElement.href = '/static/main/ui-2018/ui/button05e75a1dab16930fa311.css';
+                document.head.appendChild(linkElement);
+            }());
+        </script>
+
+					<div class="l9094e816">
+						<a
+							href="/services/questions-answers/question/create/?bankCode=sberbank"
+							class="l32fd617a la4d24a57 l9a9a13a1 l0b4a5b1c"
+							data-ask-link="_header"
+						>
+							Задать вопрос
+						</a>
+					</div>
+							</div>
+		</div>
+	</div>
+</div>
+
+					</div>
+
+		<div class="layout-wrapper ">
+			<div class="grid-row">
+				<div class="lbb023d8c l00ff93b4 l020cc093 ldbf3c053 l23815a73">
+					<!-- @ui2018bundle/FaqBundle/question-list/question-list.css 563 B --><style>.la695328f{border-bottom:1px solid #d6d9e0;padding:16px}@media only screen and (min-width:1050px){.la695328f{padding:32px}}.lafbf7c41{margin-bottom:16px;font-size:12px;line-height:16px}.l88408313{font-size:24px;line-height:32px;font-weight:500}@media only screen and (max-width:400px){.l88408313{font-size:16px;line-height:24px}}.led4dd33c{display:flex;justify-content:space-between;align-items:center;margin-top:16px;font-size:12px;line-height:16px}.l73714f9e{color:#747474}.l1facea07{display:inline-block;color:#29b6f6;text-transform:uppercase;font-weight:500}
+</style>
+
+<script>
+            (function() {
+                var linkElement = document.createElement('link');
+                linkElement.rel = 'stylesheet';
+                linkElement.type = 'text/css';
+                linkElement.media = 'screen';
+                linkElement.href = '/static/main/ui-2018/ui/panel05e75a1dab16930fa311.css';
+                document.head.appendChild(linkElement);
+            }());
+        </script>
+<script>
+            (function() {
+                var linkElement = document.createElement('link');
+                linkElement.rel = 'stylesheet';
+                linkElement.type = 'text/css';
+                linkElement.media = 'screen';
+                linkElement.href = '/static/main/ui-2018/ui/flexbox05e75a1dab16930fa311.css';
+                document.head.appendChild(linkElement);
+            }());
+        </script>
+
+
+<div
+	data-module="//cdn.banki.ru/static/bundles/ui-2018/FaqBundle/question-list/question-list-app0e226c147a.js"
+	data-module-dependencies="react-common"
+	data-module-options='{&quot;questionList&quot;:{&quot;data&quot;:[{&quot;id&quot;:405520,&quot;title&quot;:&quot;\u0414\u043e\u043c\u041a\u043b\u0438\u043a&quot;,&quot;topicId&quot;:79,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:79,&quot;name&quot;:&quot;\u0418\u043f\u043e\u0442\u0435\u043a\u0430&quot;},&quot;createdAt&quot;:&quot;2021-06-10T16:00:12+03:00&quot;,&quot;status&quot;:2,&quot;userName&quot;:&quot;89141587297&quot;},{&quot;id&quot;:405518,&quot;title&quot;:&quot;\u0421\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430 \u043d\u0430 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0432 \u043d\u0430\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0434\u043e\u043b\u0435  \u0447\u0430\u0441\u0442\u044c\u044e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438\u043f\u043e\u0442\u0435\u0447\u043d\u0430\u044f \u043a\u0432 .&quot;,&quot;topicId&quot;:79,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:79,&quot;name&quot;:&quot;\u0418\u043f\u043e\u0442\u0435\u043a\u0430&quot;},&quot;createdAt&quot;:&quot;2021-06-10T15:50:54+03:00&quot;,&quot;status&quot;:6,&quot;userName&quot;:&quot;\u041a\u0438\u0440\u043f&quot;},{&quot;id&quot;:405513,&quot;title&quot;:&quot;\u0421 \u043a\u0430\u0440\u0442\u044b \u043c\u0438\u0440 \u0441\u043d\u044f\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438&quot;,&quot;topicId&quot;:100,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:100,&quot;name&quot;:&quot;\u0418\u043d\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b&quot;},&quot;createdAt&quot;:&quot;2021-06-10T15:24:04+03:00&quot;,&quot;status&quot;:2,&quot;userName&quot;:&quot;m*******@gmail.com&quot;},{&quot;id&quot;:405505,&quot;title&quot;:&quot;\u0421\u043f\u0438\u0441\u0430\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438 \u0441\u043e \u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a\u0430 \u0432 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c&quot;,&quot;topicId&quot;:96,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:96,&quot;name&quot;:&quot;\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b \u0438 \u043f\u043b\u0430\u0442\u0435\u0436\u0438&quot;},&quot;createdAt&quot;:&quot;2021-06-10T14:47:31+03:00&quot;,&quot;status&quot;:2,&quot;userName&quot;:&quot;89020028144&quot;},{&quot;id&quot;:405503,&quot;title&quot;:&quot;\u041f\u043e\u0442\u0435\u0440\u044f\u043b \u0434\u043e\u0433\u043e\u0432\u043e\u0440 \u043d\u0430 \u043a\u0440\u0435\u0434\u0438\u0442\u043d\u0443\u044e \u043a\u0430\u0440\u0442\u0443.&quot;,&quot;topicId&quot;:77,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:77,&quot;name&quot;:&quot;\u041a\u0440\u0435\u0434\u0438\u0442\u043d\u044b\u0435 \u043a\u0430\u0440\u0442\u044b&quot;},&quot;createdAt&quot;:&quot;2021-06-10T14:35:18+03:00&quot;,&quot;status&quot;:2,&quot;userName&quot;:&quot;Steelmiass&quot;},{&quot;id&quot;:405501,&quot;title&quot;:&quot;\u041a\u041e\u0413\u0414\u0410 \u0411\u0423\u0414\u0415\u0422 \u0420\u0410\u0411\u041e\u0422\u0410\u0422\u042c \u0418\u0421\u041f\u0420\u0410\u0412\u041d\u042b\u0419 \u0411\u0410\u041d\u041a\u041e\u041c\u0410\u0422???&quot;,&quot;topicId&quot;:94,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:94,&quot;name&quot;:&quot;\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442\u044b&quot;},&quot;createdAt&quot;:&quot;2021-06-10T14:01:36+03:00&quot;,&quot;status&quot;:2,&quot;userName&quot;:&quot;ioioio&quot;},{&quot;id&quot;:405499,&quot;title&quot;:&quot;\u041a\u0430\u043a \u0441\u0447\u0435\u0440\u0435\u0437 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0431\u0430\u043d\u043a \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0421\u0411\u041f ?&quot;,&quot;topicId&quot;:96,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:96,&quot;name&quot;:&quot;\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b \u0438 \u043f\u043b\u0430\u0442\u0435\u0436\u0438&quot;},&quot;createdAt&quot;:&quot;2021-06-10T13:40:31+03:00&quot;,&quot;status&quot;:5,&quot;userName&quot;:&quot;31415926&quot;},{&quot;id&quot;:405496,&quot;title&quot;:&quot;\u0412\u0430\u043b\u044e\u0442\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434 \u0438\u0437 \u0422\u0443\u0440\u0446\u0438\u0438&quot;,&quot;topicId&quot;:96,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:96,&quot;name&quot;:&quot;\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b \u0438 \u043f\u043b\u0430\u0442\u0435\u0436\u0438&quot;},&quot;createdAt&quot;:&quot;2021-06-10T13:28:17+03:00&quot;,&quot;status&quot;:2,&quot;userName&quot;:&quot;mai135&quot;},{&quot;id&quot;:405491,&quot;title&quot;:&quot;\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u043f\u0430\u043a\u0435\u0442\u0430 \&quot;\u0412\u044b\u0433\u043e\u0434\u043d\u043e \u0432 \u0433\u043e\u0440\u043e\u0434\u0435\&quot;&quot;,&quot;topicId&quot;:100,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:100,&quot;name&quot;:&quot;\u0418\u043d\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b&quot;},&quot;createdAt&quot;:&quot;2021-06-10T12:29:10+03:00&quot;,&quot;status&quot;:2,&quot;userName&quot;:&quot;san978&quot;},{&quot;id&quot;:405171,&quot;title&quot;:&quot;\u0421\u0435\u0440\u0432\u0438\u0441 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0440\u0430\u0441\u0447\u0451\u0442\u043e\u0432&quot;,&quot;topicId&quot;:79,&quot;hotLine&quot;:{&quot;bankId&quot;:322},&quot;topic&quot;:{&quot;id&quot;:79,&quot;name&quot;:&quot;\u0418\u043f\u043e\u0442\u0435\u043a\u0430&quot;},&quot;createdAt&quot;:&quot;2021-06-10T11:05:27+03:00&quot;,&quot;status&quot;:2,&quot;userName&quot;:&quot;Votr1X&quot;}],&quot;total&quot;:103252},&quot;topicList&quot;:[{&quot;id&quot;:100,&quot;name&quot;:&quot;\u0418\u043d\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null},{&quot;id&quot;:87,&quot;name&quot;:&quot;\u041e \u0431\u0430\u043d\u043a\u0435&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null},{&quot;id&quot;:84,&quot;name&quot;:&quot;\u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442\u044b&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:44.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[3725500],&quot;operatorIds&quot;:[2319719,436397,1206909,1206984,1206919,1206930],&quot;partnerId&quot;:57},{&quot;id&quot;:82,&quot;name&quot;:&quot;\u0412\u043a\u043b\u0430\u0434\u044b&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:44.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[3725500],&quot;operatorIds&quot;:[2319719,436397,1206909,1206984,1206919,1206930],&quot;partnerId&quot;:55},{&quot;id&quot;:80,&quot;name&quot;:&quot;\u041f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u043a\u0440\u0435\u0434\u0438\u0442\u044b&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:44.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[3725500],&quot;operatorIds&quot;:[2319719,436397,1206909,1206984,1206919,1206930],&quot;partnerId&quot;:54},{&quot;id&quot;:79,&quot;name&quot;:&quot;\u0418\u043f\u043e\u0442\u0435\u043a\u0430&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:44.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[3725500],&quot;operatorIds&quot;:[2319719,436397,1206909,1206984,1206919,1206930],&quot;partnerId&quot;:53},{&quot;id&quot;:77,&quot;name&quot;:&quot;\u041a\u0440\u0435\u0434\u0438\u0442\u043d\u044b\u0435 \u043a\u0430\u0440\u0442\u044b&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:44.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[4182451],&quot;operatorIds&quot;:[42598,200302,38508,436397,1162111],&quot;partnerId&quot;:51},{&quot;id&quot;:95,&quot;name&quot;:&quot;\u041a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null},{&quot;id&quot;:93,&quot;name&quot;:&quot;\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null},{&quot;id&quot;:83,&quot;name&quot;:&quot;\u0414\u0435\u0431\u0435\u0442\u043e\u0432\u044b\u0435 \u043a\u0430\u0440\u0442\u044b&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:44.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[3725500],&quot;operatorIds&quot;:[2319719,436397,1206909,1206984,1206919,1206930],&quot;partnerId&quot;:56},{&quot;id&quot;:98,&quot;name&quot;:&quot;\u0422\u0435\u043a\u0443\u0449\u0438\u0439 \u0441\u0447\u0435\u0442&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null},{&quot;id&quot;:91,&quot;name&quot;:&quot;\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u042e\u041b&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null},{&quot;id&quot;:99,&quot;name&quot;:&quot;\u041f\u043e\u0436\u0435\u043b\u0430\u043d\u0438\u0435&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null},{&quot;id&quot;:96,&quot;name&quot;:&quot;\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b \u0438 \u043f\u043b\u0430\u0442\u0435\u0436\u0438&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null},{&quot;id&quot;:94,&quot;name&quot;:&quot;\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442\u044b&quot;,&quot;isActive&quot;:true,&quot;activeFrom&quot;:{&quot;date&quot;:&quot;2021-06-07 13:26:45.000000&quot;,&quot;timezone_type&quot;:1,&quot;timezone&quot;:&quot;+03:00&quot;},&quot;activeTo&quot;:null,&quot;expertIds&quot;:[],&quot;operatorIds&quot;:[],&quot;partnerId&quot;:null}],&quot;currentTopicId&quot;:0,&quot;currentHotlineId&quot;:&quot;sberbank&quot;,&quot;isMobile&quot;:false,&quot;isDesktop&quot;:true,&quot;isTopic&quot;:false,&quot;currentPage&quot;:&quot;bank&quot;}'
+			data-module-gtm='{"eventCategory":"ux_data","eventAction":"view_question_block_hotline_bank"}'
+	>
+	<div class="js-only">
+		<div class="lc91c72cc lee954187">
+			<div class="l6627205e" style="padding-top: 16px; padding-bottom: 16px;">
+				<div class="lf4cbd87d l9656ec89 lfd76152f">
+					<div class="ldfb09dcf" style="width: 122px; height: 25px;"></div>
+					<div class="ldfb09dcf" style="width: 174px; height: 25px;"></div>
+				</div>
+			</div>
+							<div class="l6627205e">
+					<div class="ldfb09dcf" style="width: 100%; height: 50px;"></div>
+				</div>
+						<div class="l6627205e" style="padding: 0;">
+				<div class="lf4cbd87d ld6d46e58 l23f910d6">
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+											<div class="l6627205e">
+							<div class="lf4cbd87d ld6d46e58 lfd76152f">
+																	<div class="ldfb09dcf" style="width: 110px; height: 20px;"></div>
+																<div class="lf4cbd87d ld6d46e58 lb47af913">
+									<div class="ldfb09dcf" style="width: 100%; height: 28px;"></div>
+									<div class="ldfb09dcf" style="width: 70%; height: 28px;"></div>
+								</div>
+								<div class="lf4cbd87d l9656ec89 lced4cbee">
+									<div class="lf4cbd87d l9656ec89 lfd76152f">
+										<div class="ldfb09dcf" style="width: 95px; height: 16px;"></div>
+									</div>
+									<div class="ldfb09dcf" style="width: 72px; height: 24px;"></div>
+								</div>
+							</div>
+						</div>
+									</div>
+			</div>
+			<div class="l6627205e">
+				<div class="lf4cbd87d ld6d46e58 l7dbc1646">
+					<div class="ldfb09dcf" style="width: 138px; height: 40px;"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="no-js">
+		<section class="ld3679df1">
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Ипотека</span>
+					</div>
+					<div class="l88408313">
+						ДомКлик
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	<!-- @ui2018bundle/FaqBundle/status-label/status-label.css 376 B --><style>.l64326746{font-size:12px;line-height:16px;padding:4px 8px;border-radius:100px;color:#fff;display:inline-flex}.l64326746[data-status=accepted],.l64326746[data-status=faq]{background-color:#1baf5d}.l64326746[data-status=published]{background-color:#28467f}.l64326746[data-status=improvement]{background-color:#fe9e00}.l64326746[data-status=incorrect]{background-color:#7e8595}
+</style>
+	<div class="l64326746" data-status="published">
+		Ответ дан
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Ипотека</span>
+					</div>
+					<div class="l88408313">
+						Соглашение банка на изменения в наследственной доле  частью которой является ипотечная кв .
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="improvement">
+		Требуется уточнение
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Иные вопросы</span>
+					</div>
+					<div class="l88408313">
+						С карты мир сняли деньги
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="published">
+		Ответ дан
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Переводы и платежи</span>
+					</div>
+					<div class="l88408313">
+						Списали деньги со Сбербанка в Ростелеком
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="published">
+		Ответ дан
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Кредитные карты</span>
+					</div>
+					<div class="l88408313">
+						Потерял договор на кредитную карту.
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="published">
+		Ответ дан
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Банкоматы</span>
+					</div>
+					<div class="l88408313">
+						КОГДА БУДЕТ РАБОТАТЬ ИСПРАВНЫЙ БАНКОМАТ???
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="published">
+		Ответ дан
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Переводы и платежи</span>
+					</div>
+					<div class="l88408313">
+						Как счерез интернет банк воспользоваться СБП ?
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="accepted">
+		Ответ принят
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Переводы и платежи</span>
+					</div>
+					<div class="l88408313">
+						Валютный перевод из Турции
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="published">
+		Ответ дан
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Иные вопросы</span>
+					</div>
+					<div class="l88408313">
+						Обслуживание в рамках пакета &quot;Выгодно в городе&quot;
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="published">
+		Ответ дан
+	</div>
+													</div>
+				</article>
+							<article class="la695328f">
+					<div class="lafbf7c41">
+						<span class="l1facea07">Ипотека</span>
+					</div>
+					<div class="l88408313">
+						Сервис безопасных расчётов
+					</div>
+						<div class="led4dd33c">
+							<span class="l73714f9e">10.06.2021</span>
+															
+
+	
+	<div class="l64326746" data-status="published">
+		Ответ дан
+	</div>
+													</div>
+				</article>
+					</section>
+	</div>
+</div>
+
+				</div>
+
+									<div class="lbb023d8c la0ec9287 l59dbd8f2 l5f1e00eb l1108c4ee">
+						
+	
+	
+	
+		<div
+		style="height: 100%;"
+		data-module="//cdn.banki.ru/static/bundles/ui-2018/FaqBundle/experts-list-widget/experts-list-widget4c775b13e9.js"
+		data-module-dependencies="react-common"
+	data-module-options='{&quot;experts&quot;:[{&quot;id&quot;:765766,&quot;expertAvatar&quot;:&quot;\/upload\/main\/59c\/alexandrova_94x94.jpg&quot;,&quot;expertName&quot;:&quot;\u041c\u0430\u0440\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0430&quot;,&quot;expertPosition&quot;:&quot;\u042d\u043a\u0441\u043f\u0435\u0440\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u0437\u0430\u0431\u043e\u0442\u044b \u043e \u043a\u043b\u0438\u0435\u043d\u0442\u0430\u0445&quot;}],&quot;isMobile&quot;:false,&quot;isActive&quot;:true,&quot;expertsGtm&quot;:{&quot;eventCategory&quot;:&quot;ux_data&quot;,&quot;eventAction&quot;:&quot;view_expert_block_hotline_bank&quot;},&quot;bordered&quot;:false,&quot;bankCode&quot;:&quot;sberbank&quot;,&quot;topicId&quot;:null}'
+	data-module-gtm='{"eventCategory":"ux_data","eventAction":"view_expert_block_hotline_bank"}'>
+
+		<div class="js-only">
+			<div class="lc91c72cc lee954187 padding-default">
+				<div class="lf4cbd87d ld6d46e58 lf732513f">
+					<div class="ldfb09dcf" style="width: 80%; height: 32px;"></div>
+											<div class="ldfb09dcf" style="width: 100%; height: 80px;"></div>
+																<div class="ldfb09dcf" style="width: 100%; height: 48px;"></div>
+									</div>
+			</div>
+		</div>
+		<div class="no-js">
+									<aside class="lc91c72cc lee954187 padding-default">
+				<h2 class="text-size-3 font-weight-bold ">Эксперт банка</h2>
+				<div class="lf4cbd87d ld6d46e58 lfd76152f">
+											<div class="lf4cbd87d l9656ec89 lb47af913" data-expert>
+							<a>
+								<img width="56" height="56" src="/upload/main/59c/alexandrova_94x94.jpg" alt="">
+							</a>
+							<div class="lf4cbd87d ld6d46e58 lb47af913">
+								<a class="font-weight-bold text-size-5">
+									<div>Мария Александрова</div>
+								</a>
+								<div class="text-size-6">Эксперт службы заботы о клиентах</div>
+							</div>
+						</div>
+									</div>
+									<div>
+						<a
+								class="l32fd617a l05f8f162 l9a9a13a1 l0b4a5b1c l38820cc7"
+								href="/services/questions-answers/question/create/?bankCode=sberbank&amp;expertId=765766"
+								data-ask-link="_experts_card"
+						>
+							Задать вопрос
+						</a>
+					</div>
+							</aside>
+		</div>
+	</div>
+
+					</div>
+							</div>
+		</div>
+
+					
+
+
+
+<div class="padding-top-2xl padding-bottom-2xl">
+	<div class="layout-wrapper">
+		<div
+			data-module="//cdn.banki.ru/static/bundles/ui-2018/FaqBundle/bank-cardc00486af55.js"
+			data-module-dependencies="react-common"
+			data-module-options='{"isMobile":false,"isDesktop":true,"bank":{"name":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","licence":"1481","ogrn":"1027700132195","address":"117997, \u0433.\u00a0\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b.\u00a0\u0412\u0430\u0432\u0438\u043b\u043e\u0432\u0430, \u0434.\u00a019","site":"\/away\/?url=https%3A%2F%2Fwww.sberbank.ru","siteShort":"www.sberbank.ru","phones":{"900":{"phone":"900","phone_description":"\u0435\u0434\u0438\u043d\u0430\u044f \u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0430\u044f \u0441\u043b\u0443\u0436\u0431\u0430","is_free":false},"0321":{"phone":"0321","phone_description":"\u0434\u043b\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432; \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0437\u0432\u043e\u043d\u043a\u0438 \u0441 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432 (\u0411\u0438\u043b\u0430\u0439\u043d, \u041c\u0435\u0433\u0430\u0444\u043e\u043d, \u041c\u0422\u0421, Tele2) \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438","is_free":false},"88005555550":{"phone":"8 800 555-55-50","phone_description":"\u0435\u0434\u0438\u043d\u0430\u044f \u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0430\u044f \u0441\u043b\u0443\u0436\u0431\u0430; \u0434\u043b\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0445 \u0437\u0432\u043e\u043d\u043a\u043e\u0432 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u043e\u0432 \u0441\u043e\u0442\u043e\u0432\u044b\u0445 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \u041c\u0422\u0421, \u0411\u0438\u043b\u0430\u0439\u043d, \u041c\u0435\u0433\u0430\u0444\u043e\u043d, Tele2, Yota \u0438 \u041c\u043e\u0442\u0438\u0432 \u0438\u0437 \u0432\u0441\u0435\u0445 \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u0432 \u0420\u043e\u0441\u0441\u0438\u0438","is_free":true},"88005555777":{"phone":"8 800 555-57-77","phone_description":"\u0434\u043b\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432; \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0437\u0432\u043e\u043d\u043a\u0438 \u0441 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438","is_free":true}},"awards":[{"id":11502279,"created_by":1083157,"modified_by":1083157,"bank_id":322,"name":"\u0411\u0430\u043d\u043a \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2020\/","sort":500,"year":2020},{"id":10856588,"created_by":1083157,"modified_by":1083157,"bank_id":322,"name":"\u041f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0435\u0434\u0438\u0442 \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2018\/","sort":500,"year":2018},{"id":10856615,"created_by":1083157,"modified_by":1083157,"bank_id":322,"name":"\u0420\u0435\u043a\u043b\u0430\u043c\u043d\u0430\u044f \u043a\u0430\u043c\u043f\u0430\u043d\u0438\u044f \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2018\/","sort":500,"year":2018},{"id":10733602,"created_by":1083157,"modified_by":1083157,"bank_id":322,"name":"\u0418\u043f\u043e\u0442\u0435\u0447\u043d\u044b\u0439 \u043a\u0440\u0435\u0434\u0438\u0442 \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2017\/","sort":500,"year":2017},{"id":9613562,"created_by":348300,"modified_by":1083157,"bank_id":322,"name":"\u0411\u0430\u043d\u043a \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2016\/","sort":500,"year":2016},{"id":9614081,"created_by":348300,"modified_by":1083157,"bank_id":322,"name":"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2016\/","sort":500,"year":2016},{"id":8968816,"created_by":337817,"modified_by":1083157,"bank_id":322,"name":"\u041b\u0438\u0446\u043e\u043c \u043a \u043a\u043b\u0438\u0435\u043d\u0442\u0443","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2015\/","sort":500,"year":2015},{"id":8968813,"created_by":337817,"modified_by":1083157,"bank_id":322,"name":"\u0420\u0435\u043a\u043b\u0430\u043c\u043d\u0430\u044f \u043a\u0430\u043c\u043f\u0430\u043d\u0438\u044f \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2014\/","sort":500,"year":2014},{"id":8968803,"created_by":337817,"modified_by":1083157,"bank_id":322,"name":"\u041e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2011\/","sort":500,"year":2011},{"id":8968806,"created_by":337817,"modified_by":1083157,"bank_id":322,"name":"\u041f\u0440\u043e\u0440\u044b\u0432 \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2011\/","sort":500,"year":2011},{"id":2814279,"created_by":106530,"modified_by":1083157,"bank_id":322,"name":"\u0420\u0435\u043a\u043b\u0430\u043c\u043d\u0430\u044f \u043a\u0430\u043c\u043f\u0430\u043d\u0438\u044f \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2010\/","sort":500,"year":2010},{"id":8968797,"created_by":337817,"modified_by":1083157,"bank_id":322,"name":"\u0421\u0430\u043c\u044b\u0439 \u043e\u0442\u0437\u044b\u0432\u0447\u0438\u0432\u044b\u0439 \u0431\u0430\u043d\u043a","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2010\/","sort":500,"year":2010},{"id":1815657,"created_by":3,"modified_by":1083157,"bank_id":322,"name":"\u0420\u0435\u043a\u043b\u0430\u043c\u043d\u0430\u044f \u043a\u0430\u043c\u043f\u0430\u043d\u0438\u044f \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2009\/","sort":500,"year":2009},{"id":916754,"created_by":3,"modified_by":1083157,"bank_id":322,"name":"\u0420\u0435\u043a\u043b\u0430\u043c\u043d\u0430\u044f \u043a\u0430\u043c\u043f\u0430\u043d\u0438\u044f \u0433\u043e\u0434\u0430","active":true,"place":"","link":"https:\/\/www.banki.ru\/bankofyear\/2008\/","sort":500,"year":2008}],"regionNameGenitive":"\u041c\u043e\u0441\u043a\u0432\u044b","pageUrl":"\/banks\/bank\/sberbank\/","atmCount":1364,"officeCount":527,"atmLink":"\/banks\/bank\/sberbank\/branches\/moskva\/bankomaty\/#!s3:bankomaty!s4:list","officesLink":"\/banks\/bank\/sberbank\/branches\/moskva\/#!s3:office!s4:list"}}'
+							data-module-gtm='{"eventCategory":"ux_data","eventAction":"view_about_bank_block_hotline_bank"}'
+					>
+			<div class="js-only">
+									<div class="lf4cbd87d l9656ec89 lc6211058 padding-bottom-large">
+						<div class="ldfb09dcf" style="width: 120px; height: 38px;"></div>
+					</div>
+					<div class="lc91c72cc lee954187">
+						<div class="l6627205e">
+							<div class="lf4cbd87d l9656ec89 lfd76152f lced4cbee" style="height: 168px;">
+								<div style="width: 33%;">
+									<div class="lf4cbd87d ld6d46e58 l23f910d6 lced4cbee" style="height: 100%;">
+										<div class="ldfb09dcf" style="width: 130px; height: 64px;"></div>
+										<div class="ldfb09dcf" style="width: 115px; height: 40px;"></div>
+									</div>
+								</div>
+								<div style="width: 33%;">
+									<div class="lf4cbd87d ld6d46e58 l23f910d6 lced4cbee" style="height: 100%;">
+										<div class="ldfb09dcf" style="width: 320px; height: 52px;"></div>
+										<div class="ldfb09dcf" style="width: 310px; height: 52px;"></div>
+									</div>
+								</div>
+								<div style="width: 33%;">
+									<div class="lf4cbd87d ld6d46e58 l23f910d6 lced4cbee" style="height: 100%;">
+										<div class="ldfb09dcf" style="width: 150px; height: 52px;"></div>
+										<div class="ldfb09dcf" style="width: 150px; height: 52px;"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+							</div>
+							<div class="no-js">
+					<h2 class="text-size-2 text-weight-black text-align-center padding-default">
+						О банке
+					</h2>
+					<div style="display: flex; justify-content: space-around;">
+						<div style="min-height: 140px; display: flex; justify-content: space-around; flex-direction: column;">
+							<div>
+								<div>СберБанк</div>
+								<div>
+									<div>Лицензия № 1481</div>
+									<div>ОГРН 1027700132195</div>
+								</div>
+							</div>
+															<div>Банк года-2020</div>
+													</div>
+						<div style="min-height: 140px; display: flex; justify-content: space-around; flex-direction: column;">
+							<div>
+								<div>
+									Адрес
+								</div>
+								<div>
+									117997, г. Москва, ул. Вавилова, д. 19
+								</div>
+							</div>
+							<div>
+								Офисы в городе Москва
+								<div>
+									<a href="/banks/bank/sberbank/branches/moskva/bankomaty/#!s3:bankomaty!s4:list">Банкоматов 1364</a>
+									<a href="/banks/bank/sberbank/branches/moskva/#!s3:office!s4:list">Отделений 527</a>
+								</div>
+							</div>
+						</div>
+						<div style="min-height: 140px; display: flex; justify-content: space-around; flex-direction: column;">
+							<div>
+								Телефон
+																	<div>
+										900
+									</div>
+																	<div>
+										0321
+									</div>
+																	<div>
+										8 800 555-55-50
+									</div>
+																	<div>
+										8 800 555-57-77
+									</div>
+															</div>
+							<div>
+								Сайт
+								<div>
+									<a href="/away/?url=https%3A%2F%2Fwww.sberbank.ru">
+										www.sberbank.ru
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+					</div>
+	</div>
+</div>
+
+		
+		<div class="layout-wrapper">
+			
+
+
+	<div
+		data-module="//cdn.banki.ru/static/bundles/ui-2018/FaqBundle/bank-offers-list9294ddecac.js"
+		data-module-dependencies="react-common"
+		data-module-options='{"offers":{"credits":[{"offer":{"id":179,"rateFrom":3,"rateTo":3,"productType":"credits"},"name":"\u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/credits\/credit\/179\/"},{"offer":{"id":4,"rateFrom":10.9,"rateTo":10.9,"productType":"credits"},"name":"\u041f\u043e\u0434 \u0437\u0430\u043b\u043e\u0433 \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u0438","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/credits\/credit\/4\/"},{"offer":{"id":4652,"rateFrom":11.9,"rateTo":19.9,"productType":"credits"},"name":"\u0421 \u043f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u0435\u043c \u0434\u043b\u044f \u043c\u043e\u043b\u043e\u0434\u0435\u0436\u0438 \u0438 \u043f\u0435\u043d\u0441\u0438\u043e\u043d\u0435\u0440\u043e\u0432","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/credits\/credit\/4652\/"},{"offer":{"id":2369,"rateFrom":11.9,"rateTo":11.9,"productType":"credits"},"name":"\u0420\u0435\u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/credits\/credit\/2369\/"},{"offer":{"id":1,"rateFrom":11.9,"rateTo":16.9,"productType":"credits"},"name":"\u041d\u0430 \u043b\u044e\u0431\u044b\u0435 \u0446\u0435\u043b\u0438","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/credits\/credit\/1\/"},{"offer":{"id":4841,"rateFrom":13.9,"rateTo":19.9,"productType":"credits"},"name":"\u041d\u0430 \u043b\u044e\u0431\u044b\u0435 \u0446\u0435\u043b\u0438","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/credits\/credit\/4841\/"}],"deposits":[{"offer":{"id":21436,"rateFrom":5,"rateTo":5,"productType":"deposits"},"name":"\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u043d\u0442 \u041e\u043d\u043b\u0430\u0439\u043d","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/deposits\/deposit\/21436\/"},{"offer":{"id":20978,"rateFrom":5,"rateTo":5,"productType":"deposits"},"name":"\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u043d\u0442","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/deposits\/deposit\/20978\/"},{"offer":{"id":21455,"rateFrom":4.9,"rateTo":4.9,"productType":"deposits"},"name":"\u00ab1+1\u00bb","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/deposits\/deposit\/21455\/"},{"offer":{"id":3210,"rateFrom":3.5,"rateTo":3.5,"productType":"deposits"},"name":"\u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0439 \u041e\u043d\u043b\u0430\u0439\u043d","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/deposits\/deposit\/3210\/"},{"offer":{"id":253,"rateFrom":3.5,"rateTo":3.5,"productType":"deposits"},"name":"\u041f\u0435\u043d\u0441\u0438\u043e\u043d\u043d\u044b\u0439 \u041f\u043b\u044e\u0441","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/deposits\/deposit\/253\/"},{"offer":{"id":1182,"rateFrom":3.4,"rateTo":3.4,"productType":"deposits"},"name":"\u041f\u043e\u0434\u0430\u0440\u0438 \u0436\u0438\u0437\u043d\u044c","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/deposits\/deposit\/1182\/"}],"creditcards":[{"offer":{"id":7429,"rateFrom":21.9,"rateTo":23.9,"productType":"creditcards"},"name":"\u041f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u0430\u044f","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/creditcards\/card\/7429\/"},{"offer":{"id":7428,"rateFrom":21.9,"rateTo":23.9,"productType":"creditcards"},"name":"\u041f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u0430\u044f","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/creditcards\/card\/7428\/"},{"offer":{"id":8381,"rateFrom":23.9,"rateTo":23.9,"productType":"creditcards"},"name":"\u0426\u0438\u0444\u0440\u043e\u0432\u0430\u044f","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/creditcards\/card\/8381\/"},{"offer":{"id":8231,"rateFrom":23.9,"rateTo":23.9,"productType":"creditcards"},"name":"Momentum","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/creditcards\/card\/8231\/"},{"offer":{"id":8230,"rateFrom":23.9,"rateTo":23.9,"productType":"creditcards"},"name":"Momentum","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/creditcards\/card\/8230\/"},{"offer":{"id":8173,"rateFrom":23.9,"rateTo":23.9,"productType":"creditcards"},"name":"\u0426\u0438\u0444\u0440\u043e\u0432\u0430\u044f","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/creditcards\/card\/8173\/"}],"debitcards":[{"offer":{"id":1652,"rateFrom":3.5,"rateTo":3.5,"productType":"debitcards"},"name":"\u041f\u0435\u043d\u0441\u0438\u043e\u043d\u043d\u0430\u044f","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/debitcards\/card\/1652\/","product":{"isCashBack":true,"cashBackMax":null}}],"hypothec":[{"offer":{"id":11948,"rateFrom":1,"rateTo":1,"productType":"mortgages"},"name":"\u0414\u0430\u043b\u044c\u043d\u0435\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0438\u043f\u043e\u0442\u0435\u043a\u0430","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/hypothec\/credit\/11948\/"},{"offer":{"id":11949,"rateFrom":2.7,"rateTo":2.7,"productType":"mortgages"},"name":"\u0421\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0438\u043f\u043e\u0442\u0435\u043a\u0430","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/hypothec\/credit\/11949\/"},{"offer":{"id":10213,"rateFrom":5,"rateTo":5,"productType":"mortgages"},"name":"\u0418\u043f\u043e\u0442\u0435\u043a\u0430 \u0441 \u0433\u043e\u0441\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u043e\u0439 \u0434\u043b\u044f \u0441\u0435\u043c\u0435\u0439 \u0441 \u0434\u0435\u0442\u044c\u043c\u0438","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/hypothec\/credit\/10213\/"},{"offer":{"id":11818,"rateFrom":5.55,"rateTo":5.55,"productType":"mortgages"},"name":"\u0413\u043e\u0441\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 2020","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/hypothec\/credit\/11818\/"},{"offer":{"id":10212,"rateFrom":7.7,"rateTo":7.7,"productType":"mortgages"},"name":"\u041f\u0440\u0438\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u0435 \u0433\u043e\u0442\u043e\u0432\u043e\u0433\u043e \u0436\u0438\u043b\u044c\u044f","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/hypothec\/credit\/10212\/"},{"offer":{"id":11235,"rateFrom":7.9,"rateTo":null,"productType":"mortgages"},"name":"\u0421\u0432\u043e\u0439 \u0434\u043e\u043c \u043f\u043e\u0434 \u043a\u043b\u044e\u0447","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481","currency":"RUB","productUrl":"\/products\/hypothec\/credit\/11235\/"}],"bba":[{"offer":{"id":1,"serviceCost":0},"name":"\u041b\u0451\u0433\u043a\u0438\u0439 \u0441\u0442\u0430\u0440\u0442","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481"},{"offer":{"id":2,"serviceCost":0},"name":"\u041b\u0451\u0433\u043a\u0438\u0439 \u0441\u0442\u0430\u0440\u0442","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481"},{"offer":{"id":5,"serviceCost":990},"name":"\u041d\u0430\u0431\u0438\u0440\u0430\u044f \u043e\u0431\u043e\u0440\u043e\u0442\u044b","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481"},{"offer":{"id":6,"serviceCost":990},"name":"\u041d\u0430\u0431\u0438\u0440\u0430\u044f \u043e\u0431\u043e\u0440\u043e\u0442\u044b","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481"},{"offer":{"id":7,"serviceCost":3490},"name":"\u041f\u043e\u043b\u043d\u044b\u043c \u0445\u043e\u0434\u043e\u043c","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481"},{"offer":{"id":8,"serviceCost":3490},"name":"\u041f\u043e\u043b\u043d\u044b\u043c \u0445\u043e\u0434\u043e\u043c","bankId":322,"bankName":"\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a","bankLogo":"\/\/static3.banki.ru\/ugc\/30\/46\/f1\/aa\/322.svg","bankUrl":"\/banks\/bank\/sberbank\/","bankLicense":"1481"}]},"device":"desktop"}'
+					data-module-gtm='{"eventCategory":"ux_data","eventAction":"view_offer_bank_block_hotline_bank"}'
+			>
+		<div class="js-only">
+			<div class="lf4cbd87d ld6d46e58 la0394945">
+				<div class="lf4cbd87d l9656ec89 lc6211058">
+					<div class="ldfb09dcf" style="width: 310px; height: 40px;"></div>
+				</div>
+				<div class="lf4cbd87d l9656ec89 lfd76152f lc6211058">
+										<div class="ldfb09dcf" style="width: 80px; height: 44px;"></div>
+					<div class="ldfb09dcf" style="width: 100px; height: 44px;"></div>
+					<div class="ldfb09dcf" style="width: 95px; height: 44px;"></div>
+											<div class="ldfb09dcf" style="width: 177px; height: 44px;"></div>
+						<div class="ldfb09dcf" style="width: 177px; height: 44px;"></div>
+						<div class="ldfb09dcf" style="width: 47px; height: 44px;"></div>
+									</div>
+			</div>
+			<div class="lf4cbd87d l9656ec89 lfd76152f lced4cbee padding-top-large">
+																	<div class="ldfb09dcf" style="width: 192px; height: 236px;"></div>
+									<div class="ldfb09dcf" style="width: 192px; height: 236px;"></div>
+									<div class="ldfb09dcf" style="width: 192px; height: 236px;"></div>
+									<div class="ldfb09dcf" style="width: 192px; height: 236px;"></div>
+									<div class="ldfb09dcf" style="width: 192px; height: 236px;"></div>
+							</div>
+		</div>
+					<div class="no-js">
+								<h2>Предложения банка</h2>
+									<div>
+						<h3 style="padding-top: 30px;">Кредиты</h3>
+						<div style="display: flex;">
+															<a href="/products/credits/credit/179/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>3%</div>
+																		<div>RUB</div>
+									<div>Образовательный</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/credits/credit/4/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>10.9%</div>
+																		<div>RUB</div>
+									<div>Под залог недвижимости</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/credits/credit/4652/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>11.9%</div>
+																		<div>RUB</div>
+									<div>С поручителем для молодежи и пенсионеров</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/credits/credit/2369/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>11.9%</div>
+																		<div>RUB</div>
+									<div>Рефинансирование</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/credits/credit/1/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>11.9%</div>
+																		<div>RUB</div>
+									<div>На любые цели</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/credits/credit/4841/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>13.9%</div>
+																		<div>RUB</div>
+									<div>На любые цели</div>
+									<div>Лиц. № 1481</div>
+								</a>
+													</div>
+					</div>
+									<div>
+						<h3 style="padding-top: 30px;">Вклады</h3>
+						<div style="display: flex;">
+															<a href="/products/deposits/deposit/21436/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>5%</div>
+																		<div>RUB</div>
+									<div>Дополнительный процент Онлайн</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/deposits/deposit/20978/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>5%</div>
+																		<div>RUB</div>
+									<div>Дополнительный процент</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/deposits/deposit/21455/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>4.9%</div>
+																		<div>RUB</div>
+									<div>«1+1»</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/deposits/deposit/3210/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>3.5%</div>
+																		<div>RUB</div>
+									<div>Сохраняй Онлайн</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/deposits/deposit/253/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>3.5%</div>
+																		<div>RUB</div>
+									<div>Пенсионный Плюс</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/deposits/deposit/1182/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>3.4%</div>
+																		<div>RUB</div>
+									<div>Подари жизнь</div>
+									<div>Лиц. № 1481</div>
+								</a>
+													</div>
+					</div>
+									<div>
+						<h3 style="padding-top: 30px;">Кредитные карты</h3>
+						<div style="display: flex;">
+															<a href="/products/creditcards/card/7429/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>21.9%</div>
+																		<div>RUB</div>
+									<div>Премиальная</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/creditcards/card/7428/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>21.9%</div>
+																		<div>RUB</div>
+									<div>Премиальная</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/creditcards/card/8381/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>23.9%</div>
+																		<div>RUB</div>
+									<div>Цифровая</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/creditcards/card/8231/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>23.9%</div>
+																		<div>RUB</div>
+									<div>Momentum</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/creditcards/card/8230/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>23.9%</div>
+																		<div>RUB</div>
+									<div>Momentum</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/creditcards/card/8173/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>23.9%</div>
+																		<div>RUB</div>
+									<div>Цифровая</div>
+									<div>Лиц. № 1481</div>
+								</a>
+													</div>
+					</div>
+									<div>
+						<h3 style="padding-top: 30px;">Дебетовые карты</h3>
+						<div style="display: flex;">
+															<a href="/products/debitcards/card/1652/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>3.5%</div>
+																		<div>RUB</div>
+									<div>Пенсионная</div>
+									<div>Лиц. № 1481</div>
+								</a>
+													</div>
+					</div>
+									<div>
+						<h3 style="padding-top: 30px;">Ипотека</h3>
+						<div style="display: flex;">
+															<a href="/products/hypothec/credit/11948/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>1%</div>
+																		<div>RUB</div>
+									<div>Дальневосточная ипотека</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/hypothec/credit/11949/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>2.7%</div>
+																		<div>RUB</div>
+									<div>Сельская ипотека</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/hypothec/credit/10213/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>5%</div>
+																		<div>RUB</div>
+									<div>Ипотека с господдержкой для семей с детьми</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/hypothec/credit/11818/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>5.55%</div>
+																		<div>RUB</div>
+									<div>Господдержка 2020</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/hypothec/credit/10212/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>7.7%</div>
+																		<div>RUB</div>
+									<div>Приобретение готового жилья</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="/products/hypothec/credit/11235/" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>7.9%</div>
+																		<div>RUB</div>
+									<div>Свой дом под ключ</div>
+									<div>Лиц. № 1481</div>
+								</a>
+													</div>
+					</div>
+									<div>
+						<h3 style="padding-top: 30px;">РКО</h3>
+						<div style="display: flex;">
+															<a href="" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>Обслуживание 0</div>
+																		<div></div>
+									<div>Лёгкий старт</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>Обслуживание 0</div>
+																		<div></div>
+									<div>Лёгкий старт</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>Обслуживание 990</div>
+																		<div></div>
+									<div>Набирая обороты</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>Обслуживание 990</div>
+																		<div></div>
+									<div>Набирая обороты</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>Обслуживание 3490</div>
+																		<div></div>
+									<div>Полным ходом</div>
+									<div>Лиц. № 1481</div>
+								</a>
+															<a href="" style="display: flex;flex-direction: column;">
+									<div>
+										<img src="//static3.banki.ru/ugc/30/46/f1/aa/322.svg" alt="СберБанк">
+									</div>
+																			<div>Обслуживание 3490</div>
+																		<div></div>
+									<div>Полным ходом</div>
+									<div>Лиц. № 1481</div>
+								</a>
+													</div>
+					</div>
+							</div>
+			</div>
+
+		</div>
+
+		<div class="margin-top-2xl padding-bottom-default">
+						<div
+					class="lazy-widget"
+					data-module="//cdn.banki.ru/static/bundles/ui-2018/Layout2018Bundle/seo-block8ae35a90af.js"
+					data-module-css="//cdn.banki.ru/static/bundles/ui-2018/Layout2018Bundle/seo-block0b113ff1696854cd9531.css"
+			>
+				
+<div class="seo-block" data-test="seo-block-bottom">
+	<div class="seo-block__links layout-wrapper">
+		<h2 class="text-size-3 text-weight-black margin-bottom-medium">Все продукты Банки.ру</h2>
+
+		<script>
+            (function() {
+                var linkElement = document.createElement('link');
+                linkElement.rel = 'stylesheet';
+                linkElement.type = 'text/css';
+                linkElement.media = 'screen';
+                linkElement.href = '/static/main/ui-2018/ui/horizontal-scroll05e75a1dab16930fa311.css';
+                document.head.appendChild(linkElement);
+            }());
+        </script>
+
+<div class="hor-not-fit-element">
+	<div class="hor-not-fit-element__scroll">
+		<div class="hor-not-fit-element__content">
+							
+
+				
+				<div class="grid-row seo-block__content js-visible-columns">
+																<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column " data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Калькуляторы
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Калькулятор вкладов" href=https://www.banki.ru/services/calculators/deposits/?source=footer/>
+									<span class="seo-block__link-body">Калькулятор вкладов</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Калькулятор кредитов" href=https://www.banki.ru/services/calculators/credits/?source=footer/>
+									<span class="seo-block__link-body">Калькулятор кредитов</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Калькулятор ипотеки" href=https://www.banki.ru/services/calculators/hypothec/?source=footer/>
+									<span class="seo-block__link-body">Калькулятор ипотеки</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Калькулятор ипотечного страхования" href=https://www.banki.ru/insurance/order/realty/mortgage/widget/>
+									<span class="seo-block__link-body">Калькулятор ипотечного страхования</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Калькулятор ВЗР" href=https://www.banki.ru/insurance/order/tourism/>
+									<span class="seo-block__link-body">Калькулятор ВЗР</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Калькулятор автокредитов" href=https://www.banki.ru/services/calculators/autocredits/?source=footer/>
+									<span class="seo-block__link-body">Калькулятор автокредитов</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Рассчитать ОСАГО" href=https://www.banki.ru/insurance/order/auto/type/osago/?osagoseo=3/>
+									<span class="seo-block__link-body">Рассчитать ОСАГО</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Рассчитать КАСКО" href=https://www.banki.ru/insurance/order/auto/type/kasko/>
+									<span class="seo-block__link-body">Рассчитать КАСКО</span>
+								</a>
+							</div>
+											</div>
+				
+																<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column " data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Вклады и инвестиции
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Вклады в Сбербанке" href=https://www.banki.ru/products/deposits/sberbank/>
+									<span class="seo-block__link-body">Вклады в Сбербанке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="В Почта банке" href=https://www.banki.ru/products/deposits/pochtabank/>
+									<span class="seo-block__link-body">В Почта банке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="В рублях" href=https://www.banki.ru/products/deposits/catalogue/vkladyi_v_rublyah/>
+									<span class="seo-block__link-body">В рублях</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="С высоким процентом" href=https://www.banki.ru/products/deposits/catalogue/vkladyi_pod_vyisokiy_protsent/>
+									<span class="seo-block__link-body">С высоким процентом</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Вклады с онлайн заявкой" href=https://www.banki.ru/products/deposits/catalogue/vkladyi_onlayn/>
+									<span class="seo-block__link-body">Вклады с онлайн заявкой</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Акции российских компаний" href=https://www.banki.ru/investment/search/share/?source=footer/>
+									<span class="seo-block__link-body">Акции российских компаний</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Купить ETF" href=https://www.banki.ru/investment/mutual/etf/?source=footer/>
+									<span class="seo-block__link-body">Купить ETF</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Покупка ОФЗ" href=https://www.banki.ru/investment/bonds/issuer-MFRU/>
+									<span class="seo-block__link-body">Покупка ОФЗ</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Купить ПИФы" href=https://www.banki.ru/investment/mutual/>
+									<span class="seo-block__link-body">Купить ПИФы</span>
+								</a>
+							</div>
+											</div>
+				
+																<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column " data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Кредиты и займы
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Рефинансирование кредитов" href=https://www.banki.ru/products/credits/catalogue/refinansirovanie_kredita/>
+									<span class="seo-block__link-body">Рефинансирование кредитов</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="С онлайн заявкой" href=https://www.banki.ru/products/credits/catalogue/kredityi_s_onlayn_zayavkoy/>
+									<span class="seo-block__link-body">С онлайн заявкой</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Под залог" href=https://www.banki.ru/products/credits/catalogue/kredit_pod_zalog/>
+									<span class="seo-block__link-body">Под залог</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Для пенсионеров" href=https://www.banki.ru/products/credits/catalogue/kredit_pensioneram/>
+									<span class="seo-block__link-body">Для пенсионеров</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Займ онлайн на карту" href=https://www.banki.ru/microloans/catalogue/zaymyi_onlayn_na_kartu/>
+									<span class="seo-block__link-body">Займ онлайн на карту</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Срочный займ на карту" href=https://www.banki.ru/microloans/catalogue/byistryiy_zaym_na_kartu/>
+									<span class="seo-block__link-body">Срочный займ на карту</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Займ без отказа" href=https://www.banki.ru/microloans/catalogue/zaymyi_bez_otkaza/>
+									<span class="seo-block__link-body">Займ без отказа</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Беспроцентный займ" href=https://www.banki.ru/microloans/catalogue/besprotsentnyiy_zaym/>
+									<span class="seo-block__link-body">Беспроцентный займ</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Займ на Киви кошелек" href=https://www.banki.ru/microloans/catalogue/zaym_na_kivi/>
+									<span class="seo-block__link-body">Займ на Киви кошелек</span>
+								</a>
+							</div>
+											</div>
+				
+																<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column " data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Ещё
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Личный кабинет агента" href=https://agents.banki.ru/?source=footer/>
+									<span class="seo-block__link-body">Личный кабинет агента</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Курсы ЦБ" href=https://www.banki.ru/products/currency/cb/?source=footer/>
+									<span class="seo-block__link-body">Курсы ЦБ</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Банки России" href=https://www.banki.ru/banks/?source=footer/>
+									<span class="seo-block__link-body">Банки России</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Книга памяти" href=https://www.banki.ru/banks/memory/?source=footer/>
+									<span class="seo-block__link-body">Книга памяти</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Банки на карте" href=https://www.banki.ru/banks/map/?source=footer/>
+									<span class="seo-block__link-body">Банки на карте</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Отзывы о банках" href=https://www.banki.ru/services/responses/list/?source=footer/>
+									<span class="seo-block__link-body">Отзывы о банках</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Отзывы о страховых компаниях" href=https://www.banki.ru/insurance/responses/list/?source=footer/>
+									<span class="seo-block__link-body">Отзывы о страховых компаниях</span>
+								</a>
+							</div>
+											</div>
+				
+									</div>
+
+									<div class="grid-row seo-block__content">
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Страхование
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Калькулятор ОСАГО" href=https://www.banki.ru/insurance/order/auto/type/osago/?osagoseo=3/>
+									<span class="seo-block__link-body">Калькулятор ОСАГО</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотечное страхование" href=https://www.banki.ru/insurance/order/realty/mortgage/>
+									<span class="seo-block__link-body">Ипотечное страхование</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="ОСАГО 2021" href=https://www.banki.ru/insurance/order/auto/type/osago/osago-in-year/>
+									<span class="seo-block__link-body">ОСАГО 2021</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Электронный полис ОСАГО" href=https://www.banki.ru/insurance/order/auto/type/osago/elektronnoe_osago/>
+									<span class="seo-block__link-body">Электронный полис ОСАГО</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="ОСАГО онлайн купить" href=https://www.banki.ru/insurance/order/auto/type/osago/elektronnoe_osago/?osagoseo=3/>
+									<span class="seo-block__link-body">ОСАГО онлайн купить</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Калькулятор Каско онлайн" href=https://www.banki.ru/insurance/order/auto/type/kasko/>
+									<span class="seo-block__link-body">Калькулятор Каско онлайн</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Карты
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Онлайн заявка на кредитную карту" href=https://www.banki.ru/products/creditcards/catalogue/zayavka_na_kreditnuyu_kartu_onlayn_/>
+									<span class="seo-block__link-body">Онлайн заявка на кредитную карту</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредитная карта Тинькофф Платинум" href=https://www.banki.ru/products/creditcards/card/675/>
+									<span class="seo-block__link-body">Кредитная карта Тинькофф Платинум</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредитки без справки о доходах" href=https://banki.ru/products/creditcards/catalogue/kreditnyie_kartyi_bez_spravok/>
+									<span class="seo-block__link-body">Кредитки без справки о доходах</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Онлайн заявка на дебетовую карту" href=https://www.banki.ru/products/debitcards/catalogue/onlayn_-_zayavka_na_debetovuyu_kartu/>
+									<span class="seo-block__link-body">Онлайн заявка на дебетовую карту</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Карты с кэшбэком 2021" href=https://www.banki.ru/products/debitcards/catalogue/debetovyie_kartyi_s_cash_back/>
+									<span class="seo-block__link-body">Карты с кэшбэком 2021</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Карты с бесплатным обслуживанием" href=https://www.banki.ru/products/debitcards/catalogue/besplatnyie_debetovyie_kartyi/>
+									<span class="seo-block__link-body">Карты с бесплатным обслуживанием</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Ипотека
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотека в Альфа-Банке" href=https://www.banki.ru/products/hypothec/alfabank/>
+									<span class="seo-block__link-body">Ипотека в Альфа-Банке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотека в ВТБ" href=https://www.banki.ru/products/hypothec/vtb/>
+									<span class="seo-block__link-body">Ипотека в ВТБ</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотека в Сбербанке" href=https://www.banki.ru/products/hypothec/sberbank/>
+									<span class="seo-block__link-body">Ипотека в Сбербанке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Рефинансирование ипотеки" href=https://www.banki.ru/products/hypothec/catalogue/refinansirovanie_ipoteki/>
+									<span class="seo-block__link-body">Рефинансирование ипотеки</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Льготная ипотека" href=https://www.banki.ru/products/hypothec/catalogue/ipoteka_mnogodetnyim_semyam/>
+									<span class="seo-block__link-body">Льготная ипотека</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотека на вторичное жилье" href=https://www.banki.ru/products/hypothec/catalogue/ipoteka_na_kvartiru_na_vtorichnom_ryinke/>
+									<span class="seo-block__link-body">Ипотека на вторичное жилье</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							РКО
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Расчётно-кассовое обслуживание в Москве" href=https://www.banki.ru/products/rko/>
+									<span class="seo-block__link-body">Расчётно-кассовое обслуживание в Москве</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="РКО Сбербанк" href=https://www.banki.ru/products/rko/sberbank/>
+									<span class="seo-block__link-body">РКО Сбербанк</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="РКО в Тинькофф банке" href=https://www.banki.ru/products/rko/tcs/>
+									<span class="seo-block__link-body">РКО в Тинькофф банке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="РКО в ВТБ" href=https://www.banki.ru/products/rko/vtb/>
+									<span class="seo-block__link-body">РКО в ВТБ</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="РКО в Райффайзен банке" href=https://www.banki.ru/products/rko/raiffeisen/>
+									<span class="seo-block__link-body">РКО в Райффайзен банке</span>
+								</a>
+							</div>
+											</div>
+				
+											</div>
+									<div class="grid-row seo-block__content">
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Расчетно-кассовое обслуживание
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Открытие счета для ИП" href=/products/rko/ip/>
+									<span class="seo-block__link-body">Открытие счета для ИП</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Открытие счета для ИП СберБанк" href=/products/rko/ip/sberbank/>
+									<span class="seo-block__link-body">Открытие счета для ИП СберБанк</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="СберБанк открыть расчетный счет" href=/products/rko/sberbank/>
+									<span class="seo-block__link-body">СберБанк открыть расчетный счет</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Открыть счет для ООО за один день" href=/products/rko/ooo/>
+									<span class="seo-block__link-body">Открыть счет для ООО за один день</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Открытие счета Точка" href=/products/rko/tochka/>
+									<span class="seo-block__link-body">Открытие счета Точка</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Тинькофф банк открытие расчетного счета" href=/products/rko/tcs/>
+									<span class="seo-block__link-body">Тинькофф банк открытие расчетного счета</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Ипотечные кредиты
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Программы льготной ипотеки для молодой семьи" href=/products/hypothec/catalogue/ipoteka_molodaya_semya/>
+									<span class="seo-block__link-body">Программы льготной ипотеки для молодой семьи</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотечный кредит на покупку квартиры в новостройке" href=/products/hypothec/catalogue/ipoteka_na_kvartiru_v_novostroyke/>
+									<span class="seo-block__link-body">Ипотечный кредит на покупку квартиры в новостройке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Условия социальной ипотеки в 2021 году" href=/products/hypothec/catalogue/sotsialnaya_ipoteka/>
+									<span class="seo-block__link-body">Условия социальной ипотеки в 2021 году</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотека на деревянный дом с земельным участком" href=/products/hypothec/catalogue/ipoteka_na_dom_kottedj_taunhaus/>
+									<span class="seo-block__link-body">Ипотека на деревянный дом с земельным участком</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотека для покупки дома в сельской местности" href=/products/hypothec/catalogue/selskaya_ipoteka/>
+									<span class="seo-block__link-body">Ипотека для покупки дома в сельской местности</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Социальная ипотека кухонным работникам школы" href=/products/hypothec/catalogue/ipoteka_dlya_uchiteley/>
+									<span class="seo-block__link-body">Социальная ипотека кухонным работникам школы</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Получить ипотеку без официального дохода" href=/products/hypothec/catalogue/ipoteka_bez_podtverjdeniya_dohoda/>
+									<span class="seo-block__link-body">Получить ипотеку без официального дохода</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотека для многодетных на вторичное жилье" href=/products/hypothec/catalogue/ipoteka_mnogodetnyim_semyam/>
+									<span class="seo-block__link-body">Ипотека для многодетных на вторичное жилье</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ипотечный кредит по государственной программе" href=/products/hypothec/catalogue/ipoteka_s_gosudarstvennoy_podderjkoy/>
+									<span class="seo-block__link-body">Ипотечный кредит по государственной программе</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Потека на покупку дачи с земельным участком" href=/products/hypothec/catalogue/ipoteka_na_dachu_uchastok/>
+									<span class="seo-block__link-body">Потека на покупку дачи с земельным участком</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Дебетовые карты
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Карты с бесплатным обслуживанием" href=/products/debitcards/catalogue/besplatnyie_debetovyie_kartyi/>
+									<span class="seo-block__link-body">Карты с бесплатным обслуживанием</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Оформить карту в Россельхозбанке" href=/products/debitcards/rshb/>
+									<span class="seo-block__link-body">Оформить карту в Россельхозбанке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Как заказать дебетовую карту Уралсиба" href=/products/debitcards/uralsib/>
+									<span class="seo-block__link-body">Как заказать дебетовую карту Уралсиба</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Оформить карту с дизайном" href=/products/debitcards/catalogue/debetovaya_karta_s_individualnyim_dizaynom/>
+									<span class="seo-block__link-body">Оформить карту с дизайном</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Дебетовые карты в ПСБ банке" href=/products/debitcards/promsvyazbank/>
+									<span class="seo-block__link-body">Дебетовые карты в ПСБ банке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Сколько стоит карта Тинькофф Junior" href=/products/debitcards/card/8075/>
+									<span class="seo-block__link-body">Сколько стоит карта Тинькофф Junior</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Как в Сбербанке заказать пенсионную карту онлайн" href=/products/debitcards/card/1652/>
+									<span class="seo-block__link-body">Как в Сбербанке заказать пенсионную карту онлайн</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Дебетовка Польза от Хоум Кредит" href=/products/debitcards/card/7082/>
+									<span class="seo-block__link-body">Дебетовка Польза от Хоум Кредит</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Карта Тинькофф Блэк дебетовая условия и проценты" href=/products/debitcards/card/1548/>
+									<span class="seo-block__link-body">Карта Тинькофф Блэк дебетовая условия и проценты</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Оформить карту Можно Все Росбанк" href=/products/debitcards/card/7512/>
+									<span class="seo-block__link-body">Оформить карту Можно Все Росбанк</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Потребительские кредиты
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредитование в ВТБ" href=/products/credits/vtb/>
+									<span class="seo-block__link-body">Кредитование в ВТБ</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Самый выгодный кредит" href=/products/credits/catalogue/best/>
+									<span class="seo-block__link-body">Самый выгодный кредит</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Ставки по кредитам в банках для физических лиц" href=/products/credits/>
+									<span class="seo-block__link-body">Ставки по кредитам в банках для физических лиц</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Как взять кредит онлайн на карточку" href=/products/credits/catalogue/kredityi_onlayn_na_kartu_/>
+									<span class="seo-block__link-body">Как взять кредит онлайн на карточку</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредит наличными Тинькофф банк онлайн заявка" href=/products/credits/catalogue/kredityi_s_onlayn_zayavkoy/bank/tcs/>
+									<span class="seo-block__link-body">Кредит наличными Тинькофф банк онлайн заявка</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Беззалоговый кредит" href=/products/credits/catalogue/kredit_bez_zaloga/>
+									<span class="seo-block__link-body">Беззалоговый кредит</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредит для пенсионеров с низким процентом" href=/products/credits/catalogue/kredit_pensioneram/>
+									<span class="seo-block__link-body">Кредит для пенсионеров с низким процентом</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредит наличными самозанятым" href=/products/credits/catalogue/kredit_dlya_samozanyatyih/>
+									<span class="seo-block__link-body">Кредит наличными самозанятым</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредит для иностранных граждан" href=/products/credits/catalogue/kredit_inostrannyim_grajdanam_sng/>
+									<span class="seo-block__link-body">Кредит для иностранных граждан</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредит для предпринимателей" href=/products/credits/catalogue/kredit_dlya_ip/>
+									<span class="seo-block__link-body">Кредит для предпринимателей</span>
+								</a>
+							</div>
+											</div>
+				
+											</div>
+									<div class="grid-row seo-block__content">
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Кредитные карты
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредитная карта виртуальная онлайн без визита в банк" href=/products/creditcards/catalogue/kreditnaya_karta_virtualnaya/>
+									<span class="seo-block__link-body">Кредитная карта виртуальная онлайн без визита в банк</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Платежная карта Мир" href=/products/debitcards/catalogue/natsionalnyie_platejnyie_kartyi_mir/>
+									<span class="seo-block__link-body">Платежная карта Мир</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="МТС Банк заказать кредитную карту" href=/products/creditcards/mts-bank/>
+									<span class="seo-block__link-body">МТС Банк заказать кредитную карту</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Тинькофф кредитные карты заказать онлайн с доставкой бесплатно на дом" href=/products/creditcards/catalogue/kreditnyie_kartyi_s_dostavkoy_na_dom/bank/tcs/>
+									<span class="seo-block__link-body">Тинькофф кредитные карты заказать онлайн с доставкой бесплатно на дом</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Почта Банк виртуальная кредитная карта" href=/products/creditcards/catalogue/kreditnaya_karta_virtualnaya/bank/pochtabank/>
+									<span class="seo-block__link-body">Почта Банк виртуальная кредитная карта</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Альфа Банк кредитная карта 60 дней без процентов" href=/products/creditcards/alfabank/>
+									<span class="seo-block__link-body">Альфа Банк кредитная карта 60 дней без процентов</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Тинькофф карта кредитная заказать онлайн с доставкой по почте" href=/products/creditcards/catalogue/kreditnyie_kartyi_po_pochte/bank/tcs/>
+									<span class="seo-block__link-body">Тинькофф карта кредитная заказать онлайн с доставкой по почте</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Карта рассрочки Хоум Кредит заказать онлайн" href=/products/creditcards/card/7511/>
+									<span class="seo-block__link-body">Карта рассрочки Хоум Кредит заказать онлайн</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Кредитная карта Тинькофф 55 дней без процентов" href=/products/creditcards/tcs/>
+									<span class="seo-block__link-body">Кредитная карта Тинькофф 55 дней без процентов</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Россельхозбанк кредитная карта онлайн заявка оформить" href=/products/creditcards/rshb/>
+									<span class="seo-block__link-body">Россельхозбанк кредитная карта онлайн заявка оформить</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							ОСАГО и КАСКО
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Каско УАЗ Патриот" href=/insurance/order/auto/type/kasko/brand/%D0%A3%D0%90%D0%97/model/patriot/>
+									<span class="seo-block__link-body">Каско УАЗ Патриот</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Каско на кредитный автомобиль" href=/insurance/order/auto/type/kasko/>
+									<span class="seo-block__link-body">Каско на кредитный автомобиль</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="ВТБ Каско калькулятор онлайн" href=/insurance/order/auto/type/kasko/company/vtbstrahovanie/>
+									<span class="seo-block__link-body">ВТБ Каско калькулятор онлайн</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Каско угон хищение" href=/insurance/order/auto/type/kasko/kasko_ot_ugona/>
+									<span class="seo-block__link-body">Каско угон хищение</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Каско Инфинити" href=/insurance/order/auto/type/kasko/brand/infiniti/>
+									<span class="seo-block__link-body">Каско Инфинити</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Поволжский Страховой Альянс ОСАГО онлайн купить" href=/insurance/order/auto/type/osago/elektronnoe_osago/company/povolzhskiystrahovoyalyans/>
+									<span class="seo-block__link-body">Поволжский Страховой Альянс ОСАГО онлайн купить</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="ООО Зетта Страхование электронный полис ОСАГО купить онлайн" href=/insurance/order/auto/type/osago/elektronnoe_osago/company/zettastrahovanie/>
+									<span class="seo-block__link-body">ООО Зетта Страхование электронный полис ОСАГО купить онлайн</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Тойота страхование Каско" href=/insurance/order/auto/type/kasko/brand/toyota/>
+									<span class="seo-block__link-body">Тойота страхование Каско</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Микрозаймы
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Онлайн займы на банковскую карту срочно" href=/microloans/catalogue/zaym_na_kartu/>
+									<span class="seo-block__link-body">Онлайн займы на банковскую карту срочно</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Оформить и получить простой микрозайм наличными" href=/microloans/catalogue/zaym_nalichnyimi/>
+									<span class="seo-block__link-body">Оформить и получить простой микрозайм наличными</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Оформить экспресс займ онлайн на карту срочно" href=/microloans/catalogue/ekspress_zaym_na_kartu/>
+									<span class="seo-block__link-body">Оформить экспресс займ онлайн на карту срочно</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Взять онлайн займ на киви кошелек" href=/microloans/catalogue/zaym_na_kivi/>
+									<span class="seo-block__link-body">Взять онлайн займ на киви кошелек</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Займы без процентов первый раз на карту онлайн" href=/microloans/catalogue/besprotsentnyiy_zaym/>
+									<span class="seo-block__link-body">Займы без процентов первый раз на карту онлайн</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Займ онлайн без процентов с 18 лет" href=/microloans/catalogue/zaymyi_s_18_let_na_kartu/>
+									<span class="seo-block__link-body">Займ онлайн без процентов с 18 лет</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Займы на длительный срок с ежемесячной оплатой" href=/microloans/catalogue/dolgosrochnyie_zaymyi/>
+									<span class="seo-block__link-body">Займы на длительный срок с ежемесячной оплатой</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Займы пенсионерам на кредитную карту" href=/microloans/catalogue/zaymyi_dlya_pensionerov/>
+									<span class="seo-block__link-body">Займы пенсионерам на кредитную карту</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Круглосуточные займы на кредитную карту" href=/microloans/catalogue/zaymyi_na_kartu_kruglosutochno/>
+									<span class="seo-block__link-body">Круглосуточные займы на кредитную карту</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Получить деньги в долг срочно" href=/microloans/catalogue/dengi_v_dolg/>
+									<span class="seo-block__link-body">Получить деньги в долг срочно</span>
+								</a>
+							</div>
+											</div>
+				
+																		<div class="lbb023d8c l8be0b6f9 l76a9be6a seo-block__column margin-top-default seo-block__hidden-blocks" data-test="seo-block-bottom__item">
+						<h3 class="seo-block__link-group-header">
+							Депозиты
+						</h3>
+
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="ПИФы СберБанка" href=/investment/mutual/company-sberbank-am/>
+									<span class="seo-block__link-body">ПИФы СберБанка</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Акции онлайн" href=/investment/search/share/>
+									<span class="seo-block__link-body">Акции онлайн</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Депозит онлайн" href=/products/deposits/catalogue/vkladyi_onlayn/>
+									<span class="seo-block__link-body">Депозит онлайн</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Облигации федерального займа доходность" href=/investment/bonds/issuer-MFRU/>
+									<span class="seo-block__link-body">Облигации федерального займа доходность</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Посчитать вклад в СберБанке" href=/products/deposits/sberbank/>
+									<span class="seo-block__link-body">Посчитать вклад в СберБанке</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Акции Роснефть" href=/investment/share/RU000A0J2Q06/>
+									<span class="seo-block__link-body">Акции Роснефть</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="ETF доходность" href=/investment/mutual/etf/>
+									<span class="seo-block__link-body">ETF доходность</span>
+								</a>
+							</div>
+													<div class="seo-block__link">
+								<a class="link-simple text-size-6" data-seo-link="Акции Газпром" href=/investment/share/RU0007661625/>
+									<span class="seo-block__link-body">Акции Газпром</span>
+								</a>
+							</div>
+											</div>
+				
+											</div>
+							
+		</div>
+	</div>
+</div>
+
+					<div class="margin-top-default text-align-center">
+				<div class="seo-block__show-more-button">
+					
+
+
+
+
+
+
+<!-- htmlmin:ignore -->
+<button
+	class="l32fd617a l05f8f162 l973b129a l0b4a5b1c l86873e09"
+
+	data-expand
+>
+
+			<span>Показать еще</span>
+		<span class="lc94a872f">
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18.7 9.7l-6 6c-.2.2-.5.3-.7.3s-.5-.1-.7-.3l-6-6c-.4-.4-.4-1 0-1.4s1-.4 1.4 0l5.3 5.3 5.3-5.3c.4-.4 1-.4 1.4 0s.4 1 0 1.4z"/></svg>
+</span>
+		</span>
+	
+</button>
+<!-- htmlmin:ignore -->
+				</div>
+
+				<div class="seo-block__hide-button">
+					
+
+
+
+
+
+
+<!-- htmlmin:ignore -->
+<button
+	class="l32fd617a l05f8f162 l973b129a l0b4a5b1c l86873e09"
+
+	data-hide
+>
+
+			<span>Скрыть</span>
+		<span class="lc94a872f">
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18 16c-.3 0-.5-.1-.7-.3L12 10.4l-5.3 5.3c-.4.4-1 .4-1.4 0s-.4-1 0-1.4l6-6c.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4-.2.2-.4.3-.7.3z"/></svg>
+</span>
+		</span>
+	
+</button>
+<!-- htmlmin:ignore -->
+				</div>
+			</div>
+			</div>
+</div>
+
+			</div>
+		
+		</div>
+	</div>
+
+	<div class="bg-minor-black-lighten2 border-top-colorMinorGrayLighten">
+	<div class="layout-wrapper padding-vert-default">
+		 	
+	<nav
+		class="bread-crumbs bread-crumbs--light-grey bread-crumbs--no-bottom-margin"
+		data-test="bread-crumbs"
+	>
+		<span class="bread-crumbs__item">
+			<a href="/" title="Главная" data-bread-crumbs-link>
+				<span>Главная</span>
+			</a>
+		</span>
+
+									<span class="bread-crumbs__item">
+					<a href="/services/questions-answers/" title="Продукт" data-bread-crumbs-link>
+						<span>Продукт</span>
+					</a>
+				</span>
+												<span class="bread-crumbs__item">
+					<span>Горячая линия СберБанка задать вопрос онлайн</span> 					<a title="Горячая линия СберБанка задать вопрос онлайн" href="https://www.banki.ru/services/questions-answers/hotline/bank/sberbank/?questionPage=9" data-bread-crumbs-link></a>
+				</span>
+						</nav>
+
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+								{
+					"@type": "ListItem",
+					"position": "1",
+					"name": "Главная",
+					"item": "https://www.banki.ru"
+				},
+																			{
+						"@type": "ListItem",
+						"position": "2",
+						"name": "Продукт",
+						"item": "https://www.banki.ru/services/questions-answers/"
+					},																			{
+						"@type": "ListItem",
+						"position": "3",
+						"name": "Горячая линия СберБанка задать вопрос онлайн",
+						"item": "https://www.banki.ru/services/questions-answers/hotline/bank/sberbank/?questionPage=9"
+					}							]
+		}
+	</script>
+	</div>
+</div>
+
+
+				
+			</div>
+
+			<div class="page-container__footer">
+					<div
+		class="lazy-widget"
+		data-module
+		data-module-css="//cdn.banki.ru/static/bundles/ui-2018/Layout2018Bundle/full-footer0b113ff1696854cd9531.css"
+	>
+							
+
+<footer class="l9accb175">
+	<div class="l8a1f0e47">
+		<div class="layout-wrapper">
+			<div class="l533072aa">
+				<div class="l04b49dd9">
+					<a href="/" class="l0ab43c15">
+						<img data-src="//cdn.banki.ru/static/bundles/ui-2018/Layout2018Bundle/full/footer/images/logo.455ac5d9c4bc4f5373d1c82ddcfdaad6.svg"
+							 alt="Банки.ру"
+							 class="l0a82669c lazy-load" />
+					</a>
+					<span class="l7e9e1398">Деньги находятся здесь</span>
+				</div>
+
+				<div class="l6c836399">
+					<div class="l17045445">
+			<a
+			href="//zen.yandex.ru/banki.ru" target="_blank"
+			class="l7b3e1886"
+		>
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M14.314 14.314C12.43 16.26 12.291 18.686 12.13 24c4.954 0 8.374-.017 10.14-1.731C23.983 20.503 24 16.92 24 12.129c-5.314.171-7.74.3-9.686 2.185zM0 12.13c0 4.791.017 8.374 1.731 10.14C3.497 23.983 6.917 24 11.871 24c-.171-5.314-.3-7.74-2.185-9.686C7.74 12.43 5.314 12.291 0 12.13zM11.871 0C6.926 0 3.497.017 1.731 1.731.017 3.497 0 7.08 0 11.871c5.314-.171 7.74-.3 9.686-2.185C11.57 7.74 11.709 5.314 11.87 0zm2.443 9.686C12.43 7.74 12.291 5.314 12.13 0c4.954 0 8.374.017 10.14 1.731C23.983 3.497 24 7.08 24 11.871c-5.314-.171-7.74-.3-9.686-2.185z" clip-rule="evenodd"/></svg>
+</span>
+		</a>
+			<a
+			href="//www.facebook.com/banki.ru" target="_blank"
+			class="l7b3e1886"
+		>
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7.018 8H9V6.077c0-.971.102-2.472.743-3.4C10.42 1.692 11.348 1 12.943 1 15.641.979 17 1.562 17 1.562L16.042 5s-.775-.478-1.578-.478S13 4.837 13 5.719V8h4l-1 4h-3v10.975H9v-10.99H7.018V8z"/></svg>
+</span>
+		</a>
+			<a
+			href="//twitter.com/banki_ru" target="_blank"
+			class="l7b3e1886"
+		>
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23 4.26a9.343 9.343 0 01-2.707.751 4.78 4.78 0 002.071-2.643 9.43 9.43 0 01-2.996 1.16 4.673 4.673 0 00-3.44-1.51c-2.604 0-4.717 2.141-4.717 4.779 0 .375.043.74.122 1.09-3.92-.201-7.395-2.103-9.721-4.996a4.837 4.837 0 00-.638 2.405c0 1.659.865 3.119 2.132 3.977C2.331 9.248 2 9.032 1 8.675v.062c0 2.314 1.593 4.245 3.75 4.684a4.797 4.797 0 01-1.258.168 4.59 4.59 0 01-.896-.087c.601 1.9 2.339 3.282 4.401 3.319a9.377 9.377 0 01-5.858 2.045 9.94 9.94 0 01-1.125-.063 13.224 13.224 0 007.228 2.146c8.676 0 13.418-7.281 13.418-13.596 0-.208-.004-.413-.014-.618A9.759 9.759 0 0023 4.26z"/></svg>
+</span>
+		</a>
+			<a
+			href="//vk.com/bankiru_club" target="_blank"
+			class="l7b3e1886"
+		>
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.522 19h-.112c-1.211-.203-2.035-1.074-2.739-1.883-.397-.455-1.007-1.486-1.733-1.369-1.031.172-.521 1.969-.95 2.738-.349.623-1.831.51-2.853.398-3.226-.348-4.874-2.104-6.319-3.99C3.272 12.878 2.07 10.769.958 8.453.599 7.703.12 6.873.12 5.945c.522-.436 1.375-.286 2.236-.286.73 0 1.87-.163 2.404.114.317.164.638 1.038.895 1.597.588 1.28 1.13 2.2 1.845 3.249.31.455.785 1.311 1.342 1.197.541-.111.592-1.469.616-2.338.026-.986-.002-2.212-.28-2.737-.263-.494-.744-.503-1.23-.797.405-.831 1.515-.913 2.852-.913 1.125 0 2.693-.128 3.132.627.446.768.141 2.154.112 3.193-.032 1.168-.23 2.371.559 2.906.607-.066.935-.668 1.286-1.139.771-1.031 1.249-1.922 1.846-3.25.245-.545.508-1.482.951-1.653.675-.261 1.751-.058 2.739-.058.81 0 2.257-.228 2.517.342.216.473-.42 1.668-.615 1.995-.749 1.252-1.483 2.049-2.293 3.137-.322.434-.989 1.129-.95 1.822.03.529.549.934.95 1.312.869.822 1.478 1.422 2.182 2.338.265.346.837 1.092.782 1.539-.172 1.395-3.391.522-4.476.858z"/></svg>
+</span>
+		</a>
+			<a
+			href="//www.youtube.com/user/BankiRu" target="_blank"
+			class="l7b3e1886"
+		>
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.533 6.5a2.757 2.757 0 00-2.486-2.379l-.006-.001a100.748 100.748 0 00-18.182 0l-.006.001A2.756 2.756 0 00.367 6.5l-.001.004a41.525 41.525 0 000 10.991l.001.004a2.757 2.757 0 002.486 2.379l.006.001c6.048.548 12.133.548 18.182 0l.006-.001a2.757 2.757 0 002.486-2.379 41.5 41.5 0 000-10.999zM10 16.016V8l6.984 4L10 16.016z"/></svg>
+</span>
+		</a>
+			<a
+			href="//www.instagram.com/banki_ru" target="_blank"
+			class="l7b3e1886"
+		>
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M22 17c0 2.757-2.243 5-5 5H7c-2.757 0-5-2.243-5-5V7c0-2.757 2.243-5 5-5h10c2.757 0 5 2.243 5 5v10zM17 0H7C3.141 0 0 3.14 0 7v10c0 3.86 3.141 7 7 7h10c3.859 0 7-3.14 7-7V7c0-3.86-3.141-7-7-7z"/><path d="M12 16c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-10c-3.309 0-6 2.691-6 6s2.691 6 6 6 6-2.691 6-6-2.691-6-6-6zM18.531 3.938a1.531 1.531 0 100 3.062 1.531 1.531 0 000-3.062z"/></svg>
+</span>
+		</a>
+			<a
+			href="http://t.me/finsupermarket" target="_blank"
+			class="l7b3e1886"
+		>
+			
+
+
+
+<span class="l42522c89 l33027d71">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12.715 16.94l-2.426 2.359c-.282.274-.505.505-1.01.505l.344-5.149 9.364-8.45c.411-.365-.09-.543-.635-.212L6.795 13.284l-4.992-1.558c-1.078-.33-1.086-1.071.242-1.604l19.453-7.501c.888-.403 1.746.213 1.407 1.573l-3.313 15.612c-.231 1.109-.902 1.375-1.83.862l-5.047-3.728z"/></svg>
+</span>
+		</a>
+	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="l8a1f0e47">
+		<div class="layout-wrapper">
+			<div class="l27ffcaaf">
+				<div>
+					<a href="/info/about/">О проекте</a>
+					<a href="/info/how-it-works/">Как это работает</a>
+					<a href="/info/awards/">Наши награды</a>
+					<a href="https://hh.ru/employer/72986" target="_blank">Работа в Banki.ru</a>
+					<a href="/info/advertising/">Реклама</a>
+					<a href="/info/contacts/">Контакты</a>
+					<a href="/info/contacts/feedback/">Служба&nbsp;поддержки</a>
+					<a href="/sitemap/">Карта&nbsp;сайта</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="l8a1f0e47">
+		<div class="layout-wrapper">
+			<div class="lc2dca25c">
+				<div>
+					ООО ИА «Банки.ру» использует файлы cookie для повышения удобства пользователей и обеспечения должного уровня работоспособности сайта и сервисов. Cookie называются небольшие файлы, содержащие информацию о настройках и предыдущих посещениях веб-сайта. Если вы не хотите использовать файлы cookie, то можете изменить настройки браузера. Условия использования
+					<a class="lfb596704" href="/privacy/">смотрите здесь</a>.
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="layout-wrapper">
+		<div class="lc2dca25c">
+			<div>
+				<div>
+					© 2005—2021 ИА «Банки.ру».					При использовании материалов гиперссылка на Banki.ru обязательна.
+				</div>
+				<div class="l1464805f">
+					<div>Свидетельство на товарный знак № 445945 от 18.10.2011г.</div>
+					<div>
+						<a href="/rules/">Пользовательское&nbsp;соглашение</a>
+						<a href="/info/private/">Политика&nbsp;обработки&nbsp;персональных&nbsp;данных</a>
+					</div>
+				</div>
+			</div>
+			<div>
+				<a href="/info/about/#agelimit">
+					<img data-src="//cdn.banki.ru/static/bundles/ui-2018/Layout2018Bundle/full/footer/images/16+.f438709726f38d361924d05b55406f1e.svg"
+						 alt="16+" class="l0a82669c lazy-load" />
+				</a>
+			</div>
+		</div>
+	</div>
+</footer>
+
+				
+	</div>
+			</div>
+		</div>
+	
+				<script>
+		banki.webpackCustomChunks = {
+			'react-common': '//cdn.banki.ru/static/bundles/ui-2018/react-common761f710184.js',
+			'react-redux': '//cdn.banki.ru/static/bundles/ui-2018/react-redux4c3fb7fb59.js',
+		};
+	</script>
+
+	<!-- @ui2018common/bottom.js 136679 B --><script src="/static/main/ui-2018/bottom76209d9580.js"></script>
+
+	<script>
+		requirejs.config({
+						map: {
+				'*': {
+					'css': '/static/common/dist/vendor/require-css/css.min.js'
+				}
+			},
+			paths: {
+				'ScrollMagic.animation': '//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap',
+				helpers: '//cdn.banki.ru/static/utils/helpers.js?f0d6aae21d8cefe20efbcbd83d07ee8d',
+				jquery: '//cdn.banki.ru/static/common/dist/vendor/jquery/dist/jquery.min.js?3eb6248a6c',
+				router: '/static/router.js?_v=1623407925',
+				ScrollMagic: '//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic',
+				TimelineMax: '//cdnjs.cloudflare.com/ajax/libs/gsap/1.14.2/TweenMax.min',
+				TweenMax: '//cdnjs.cloudflare.com/ajax/libs/gsap/1.14.2/TweenMax.min',
+				'social-likes': '//cdn.banki.ru/static/common/dist/components/social-likes/social-likes.js?65dbde404d',
+				'ui.popup': '//cdn.banki.ru/static/bundles/ui-2018/MainBundle/js-components/popupeb8ce805a6',
+				'utils.html-builder': '/static/common/dist/utils/html-builder/html-builder',
+				'youtube': 'https://www.youtube.com/iframe_api',
+			},
+			waitSeconds: 0,
+		});
+
+		banki.utils.loadModule(['//cdn.banki.ru/static/bundles/ui-2018/MainBundle/init-core673a1c5eba.js']);
+	</script>
+
+	
+
+			
+	
+	<script>
+		banki.utils.domReady.run();
+	</script>
+
+		
+	
+	
+	<script>
+		setTimeout(function() {
+							banki.utils.loadModule(
+					['//cdn.banki.ru/static/bundles/ui-2018/GeoBundle/user-geo-widget2811119331.js'],
+					['react-common'],
+					function(UserGeoWidget) {
+						new UserGeoWidget.default({"region":{"id":4,"name":"\u041c\u043e\u0441\u043a\u0432\u0430","regionUrl":"moskva"},"isRegionCookieDefined":false,"headerNodeId":null,"regionCookieName":"user_region_id","regionCookieLifetime":604800000,"reloadCookieName":"is_region_changed"});
+					}
+				);
+			
+					}, 2000);
+	</script>
+
+
+	<!-- banki.ru ng ui2018 -->
+
+
+	<script>
+		banki.utils.loadModule(['//cdn.banki.ru/static/bundles/ui-2018/Layout2018Bundle/full-desktop96728d97bf.js']);
+
+			</script>
+
+			<!-- Google Tag Manager -->
+	<script>
+	(function(w,d,s,l,i){
+		w[l]=w[l]||[];
+		w[l].push({
+			'gtm.start': new Date().getTime(),
+			event: 'gtm.js'
+		});
+		var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';
+		j.async=true;
+		j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+		f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TSSMNLH');
+</script>
+
+<script>
+	(function(w, l){
+		w.pushGtmEvent = function (eventCategory, eventAction, eventLabel, eventValue, nonInteraction) {
+			if (w[l]) {
+				w[l].push({ event: nonInteraction ? 'GTM_NI_event' : 'GTM_event',
+					eventCategory: eventCategory,
+					eventAction: eventAction,
+					eventLabel: eventLabel,
+					eventValue: eventValue
+				});
+			}
+		};
+	})(window, 'dataLayer')
+</script>
+<!-- End Google Tag Manager -->
+
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-38591118-1', 'auto');
+	ga('require', 'displayfeatures');
+	ga(function(tracker) {
+		/* BD-1184 */
+		var clientId = tracker.get('clientId') || '(cid not found)';
+		tracker.set('dimension1', clientId);
+	});
+	ga(function(tracker) {
+		/* BD-1004 */
+		var clientId = tracker.get('clientId') || '(cid not found)';
+		var date = new Date(new Date().getTime() + 1000 * 60 * 60 * 24 * 365); // 1 год
+		document.cookie = 'ga_client_id=' + clientId + '; path=/; expires=' + date.toUTCString();
+	});
+</script>
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSSMNLH"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<noscript>
+	<img height="1" width="1" alt=""
+	     src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1064624868/?value=0&amp;label=5LLBCNThlQQQ5MXT-wM&amp;guid=ON&amp;script=0"/>
+</noscript>
+
+<!-- Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. For
+instructions on adding this tag and more information on the above
+requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script>
+	var google_conversion_id = 1064624868;
+	var google_conversion_label = "5LLBCNThlQQQ5MXT-wM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+
+	(function() {
+		var script = document.createElement('script');
+		script.type = 'text/javascript';
+		script.async = true;
+		script.src = '//www.googleadservices.com/pagead/conversion.js';
+
+		document.head.appendChild(script);
+	}());
+</script>
+
+	<script type="text/javascript">
+	!function () {
+		var t = document.createElement('script');
+		t.type = 'text/javascript', t.async = !0, t.src = 'https://vk.com/js/api/openapi.js?160', t.onload = function () {
+			VK.Retargeting.Init('VK-RTRG-4751-3790P'), VK.Retargeting.Hit();
+		}, document.head.appendChild(t);
+	}();
+</script>
+<noscript>
+	<img src="https://vk.com/rtrg?p=VK-RTRG-4751-3790P"
+		style="position:fixed; left:-999px;"
+		alt=""
+	/>
+</noscript>
+
+	<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "892151", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script>
+<noscript>
+    <div>
+        <img src="//top-fwz1.mail.ru/counter?id=892151;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+    </div>
+</noscript>
+<!-- //Rating@Mail.ru counter -->
+	<script type="text/javascript">
+	var ScarabQueue = ScarabQueue || [];
+	(function(id) {
+		if (document.getElementById(id)) return;
+		var js = document.createElement('script'); js.id = id;
+		js.src = '//cdn.scarabresearch.com/js/19615E3912E48277/scarab-v2.js';
+		var fs = document.getElementsByTagName('script')[0];
+		fs.parentNode.insertBefore(js, fs);
+	})('scarab-js-api');
+</script>
+
+	
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+	(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+		m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+	ym(502212, "init", {
+		clickmap:true,
+		trackLinks:true,
+		accurateTrackBounce:true,
+		webvisor: true,
+		params:window.yaParams
+	});
+
+	setTimeout(function() {
+				ym(502212, 'setUserID', ga.getAll()[0].get('clientId'));
+	}, 500);
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/502212" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	</body>
+</html>
+
+<!-- Page generation time: 0.209 sec. -->
+<!-- Page generation time: 0.209 sec. -->
